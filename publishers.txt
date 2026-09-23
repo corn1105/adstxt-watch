@@ -1,0 +1,73 @@
+# One publisher website per line. Add or remove freely; the next run picks it up.
+# A site that fails to load is logged and left out of the comparison, never counted as a loss.
+# US news
+nytimes.com
+washingtonpost.com
+cnn.com
+foxnews.com
+nbcnews.com
+cbsnews.com
+usatoday.com
+nypost.com
+latimes.com
+newsweek.com
+time.com
+forbes.com
+businessinsider.com
+cnbc.com
+reuters.com
+apnews.com
+axios.com
+politico.com
+thehill.com
+# UK
+theguardian.com
+telegraph.co.uk
+independent.co.uk
+dailymail.co.uk
+thesun.co.uk
+mirror.co.uk
+express.co.uk
+standard.co.uk
+metro.co.uk
+which.co.uk
+# Europe
+elpais.com
+lemonde.fr
+spiegel.de
+bild.de
+corriere.it
+# Tech and gaming
+ign.com
+pcmag.com
+cnet.com
+zdnet.com
+theverge.com
+techradar.com
+tomsguide.com
+gamespot.com
+wired.com
+# Commerce content and lifestyle
+buzzfeed.com
+huffpost.com
+people.com
+allrecipes.com
+today.com
+goodhousekeeping.com
+cosmopolitan.com
+vogue.com
+gq.com
+refinery29.com
+thekitchn.com
+bustle.com
+# Sport and entertainment
+espn.com
+cbssports.com
+bleacherreport.com
+variety.com
+rollingstone.com
+# Portals and weather
+msn.com
+yahoo.com
+weather.com
+accuweather.com
