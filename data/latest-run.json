@@ -1,6 +1,6 @@
 {
- "date": "2026-09-23",
- "coverage": "Publishers read OK: 60 of 64. Exchange sellers.json read OK: 37 of 40.",
+ "date": "2026-09-27",
+ "coverage": "Publishers read OK: 61 of 64. Exchange sellers.json read OK: 37 of 41.",
  "errors": {
   "time.com": [
    "https://time.com/ads.txt: error (HTTP 406)",
@@ -10,10 +10,6 @@
    "https://apnews.com/ads.txt: error (HTTP 403)",
    "https://www.apnews.com/ads.txt: error (HTTP 403)"
   ],
-  "express.co.uk": [
-   "https://express.co.uk/ads.txt: error (HTTP 403)",
-   "https://www.express.co.uk/ads.txt: error (HTTP 403)"
-  ],
   "which.co.uk": [
    "https://which.co.uk/ads.txt: error (HTTP 404)",
    "https://www.which.co.uk/ads.txt: error (HTTP 404)"
@@ -21,6 +17,10 @@
   "google.com": [
    "https://google.com/sellers.json: error (HTTP 404)",
    "https://www.google.com/sellers.json: error (HTTP 404)"
+  ],
+  "yieldmo.com": [
+   "https://yieldmo.com/sellers.json: error (HTTP 202)",
+   "https://www.yieldmo.com/sellers.json: error (HTTP 202)"
   ],
   "criteo.com": [
    "https://criteo.com/sellers.json: error (HTTP 403)",
