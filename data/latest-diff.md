@@ -1,200 +1,129 @@
-# ads.txt watch: 2026-10-04 compared with 2026-09-27
+# ads.txt watch: 2026-10-11 compared with 2026-10-04
 
-Publishers read OK: 61 of 64. Exchange sellers.json read OK: 37 of 41. Compared on the 61 publishers and 37 exchanges that read OK in both runs, so download errors never count as losses.
+Publishers read OK: 60 of 64. Exchange sellers.json read OK: 39 of 42. Compared on the 60 publishers and 37 exchanges that read OK in both runs, so download errors never count as losses.
 
 ## Ad-tech companies that lost publishers
 
 | ad system | publishers before | after | lost |
 |---|---|---|---|
-| adyoulike.com | 37 | 34 | gamespot.com, latimes.com, theguardian.com |
-| contextweb.com | 52 | 50 | cosmopolitan.com, goodhousekeeping.com |
-| sharethrough.com | 55 | 53 | cosmopolitan.com, goodhousekeeping.com |
-| freewheel.tv | 47 | 46 | newsweek.com |
-| insticator.com | 21 | 20 | weather.com |
-| rhythmone.com | 31 | 30 | independent.co.uk |
-| spotim.market | 27 | 26 | theguardian.com |
-| weborama.nl | 4 | 3 | msn.com |
-| yahoo.com | 57 | 56 | msn.com |
+| adipolosolutions.com | 24 | 22 | allrecipes.com, people.com |
+| gamezop.com | 3 | 1 | cbsnews.com, cbssports.com |
+| yieldmo.com | 50 | 48 | techradar.com, tomsguide.com |
+| freestar.com | 6 | 5 | independent.co.uk |
+| insticator.com | 19 | 18 | washingtonpost.com |
+| nativo.com | 37 | 36 | washingtonpost.com |
+| pmc.com | 18 | 17 | independent.co.uk |
+| primis.tech | 12 | 11 | independent.co.uk |
+| spotim.market | 25 | 24 | washingtonpost.com |
+| ssp.cadent.com | 22 | 21 | washingtonpost.com |
+| start.io | 5 | 4 | thehill.com |
+| supply.colossusssp.com | 20 | 19 | independent.co.uk |
+| tagoras.io | 1 | 0 | thehill.com |
+| trustx.org | 14 | 13 | independent.co.uk |
+| zetaglobal.com | 2 | 1 | thehill.com |
+| zetaglobal.net | 26 | 25 | washingtonpost.com |
 
 
 ## Intermediaries gone from every exchange we read
 
 | name | domain | exchanges before | dropped from |
 |---|---|---|---|
-| Adhubmedia | adhubmedia.com | 1 | inmobi.com |
-| Aditude Direct | aditude-direct.com | 1 | amxrtb.com |
-| anchit | anchit.com | 1 | media.net |
-| Verizon Media SSP | aol.com | 1 | pubmatic.com |
-| APP ASPIRE LLC | appaspire.com | 2 | inmobi.com, pubmatic.com |
-| Weatherzone | apps.weatherzone.com.au | 1 | inmobi.com |
-| Caruso.gr | caruso.gr | 1 | onetag.com |
-| Cognition Ads | cognitionads.com | 1 | freewheel.tv |
-| FourM Inc. | corp.fourm.jp | 1 | inmobi.com |
-| DISKWALA LLC | diskwala.com | 1 | inmobi.com |
-| BIDNEX HONG KONG LIMITED-1 | flatfishsafe.com | 1 | inmobi.com |
-| GMana Ad Solutions | gmana-ads.com | 1 | triplelift.com |
-| FootballCo Media Limited | goal.com | 1 | inmobi.com |
-| APN, LLC | iacapps.com | 2 | appnexus.com, xandr.com |
-| United Marketing Technologies, Inc. | ja.ad-stir.com | 1 | inmobi.com |
-| KLIPY | klipy.co | 1 | inmobi.com |
-| Local Yokel Media | localyokelmedia.com | 1 | rubiconproject.com |
-| Lookverin, Inc | lookverin.com | 1 | pubmatic.com |
-| Nyheter365 AB | newsner.com | 1 | adform.com |
-| Pepsia SAS | pepsia.com | 2 | appnexus.com, xandr.com |
-| Tastemade PML | pmlatam.com | 2 | sharethrough.com, smartadserver.com |
-| POWERBEANS LTD | powerbeans.ai | 1 | inmobi.com |
-| Simran Testing - Programmatic | simrantesting.com | 1 | media.net |
-| STORMSTRIKE INC. | stormstrike.gg | 1 | inmobi.com |
-| Sonic Odeeo Ltd | supply-chain.odeeo.io | 1 | onetag.com |
-| Teal | tealplus.com | 1 | inmobi.com |
-| Teamblind Inc. | teamblind.com | 1 | inmobi.com |
-| The Hindu Group of Publishing | thehindu.com | 1 | inmobi.com |
-| Trustridge Inc. | trustridge.jp | 1 | pubmatic.com |
-| UMICALL.INC | umicall.com | 1 | inmobi.com |
-| what3words Limited | what3words.com | 1 | inmobi.com |
+| Ad2One Ltd. | ad2onegroup.com | 1 | rubiconproject.com |
+| Next Publisher Srl | cucchiaio.it | 1 | ogury.com |
+| IntellectScoop Media Pvt Ltd | intellectscoop.com | 1 | loopme.com |
+| RebelMouse | - | 2 | sharethrough.com, smartadserver.com |
+| thebonddigital | - | 2 | sharethrough.com, smartadserver.com |
+| Novicue Technology Solutions LLC | novicue.com | 1 | improvedigital.com |
+| Dexerto Limited | omni-dex.io | 1 | rubiconproject.com |
+| Platformance MENA Marketing Management LLC | platformance.io | 2 | appnexus.com, xandr.com |
+| X-Listing Co., Ltd | xlisting.co.jp | 1 | rubiconproject.com |
 
 
 ## Intermediaries dropped by some exchanges
 
 | name | domain | exchanges before | after | dropped from |
 |---|---|---|---|---|
-| Shinka | shinka.io | 9 | 6 | appnexus.com, inmobi.com, xandr.com |
-| Antipodes | antipodesdigital.com | 6 | 4 | appnexus.com, xandr.com |
-| Audienciad | audienciad.com | 4 | 2 | appnexus.com, xandr.com |
-| DAZN | dazn.com | 5 | 3 | appnexus.com, xandr.com |
-| FreeWheel | freewheel.tv | 3 | 1 | appnexus.com, xandr.com |
-| Get Media MX | getmediamx.com | 8 | 6 | appnexus.com, xandr.com |
-| Kargo | kargo.com | 8 | 6 | appnexus.com, xandr.com |
-| Kontext | kontext.so | 4 | 2 | inmobi.com, loopme.com |
-| Marfeel Solutions SL | marfeel.com | 8 | 6 | appnexus.com, xandr.com |
-| OMS | onlinemediasolutions.com | 20 | 18 | ogury.com, smartadserver.com |
-| OpenX | openx.com | 5 | 3 | appnexus.com, xandr.com |
-| Stroeer SSP GmbH | stroeer.de | 7 | 5 | appnexus.com, xandr.com |
-| Triton Managed Partners | tritondigital.com | 6 | 4 | appnexus.com, xandr.com |
-| Virtual Minds GmbH | yieldlab.net | 7 | 5 | appnexus.com, xandr.com |
-| Admixer | admixer.com | 13 | 12 | risecodes.com |
-| ADNIMATION LTD | adnimation.com | 22 | 21 | ogury.com |
-| Amagi Corporation | amagi.com | 19 | 18 | inmobi.com |
-| Anymanager | anymanager.io | 18 | 17 | inmobi.com |
-| Atas Digital Pte Ltd | atasdigital.com | 4 | 3 | pubmatic.com |
-| Azure Tech Pty Ltd | azurebid.com | 2 | 1 | inmobi.com |
-| BCCOMMUNITY LIMITED | bidscube.com | 8 | 7 | ogury.com |
-| BIDTOX TECHNOLOGY PTE. LTD. | bidtox.com | 2 | 1 | inmobi.com |
-| Bright Mountain Media | brightmountainmedia.com | 14 | 13 | smartadserver.com |
-| Cafe Media | cafemedia.com | 29 | 28 | inmobi.com |
-| Carbonatix LTD | carbonatix.com | 12 | 11 | ogury.com |
-| Colo IP Networks, LLC | coloip.com | 3 | 2 | conversantmedia.com |
-| Content Ignite | contentignite.com | 17 | 16 | inmobi.com |
-| Cpm Star | cpmstar.com | 16 | 15 | inmobi.com |
-| Decenterads PTE LTD | decenterads.com | 2 | 1 | ogury.com |
-| EMPOWER AD-TECH FZ-LLC | empower.net | 7 | 6 | inmobi.com |
-| Evolution Group | evolutiongroup.digital | 5 | 4 | inmobi.com |
-| Ezoic | ezoic.ai | 24 | 23 | inmobi.com |
-| FloSports | flosports.tv | 3 | 2 | inmobi.com |
-| Flux G | flux-g.com | 13 | 12 | inmobi.com |
-| Frankly Media | franklymedia.com | 9 | 8 | indexexchange.com |
-| Freestar.IO | freestar.com | 25 | 24 | inmobi.com |
-| Fuel Digital Inc. | fueldigitalmedia.com | 16 | 15 | inmobi.com |
-| glomex GmbH | glomex.com | 14 | 13 | inmobi.com |
-| Good Run Media | goodrunmedia.com | 6 | 5 | inmobi.com |
-| Gotchosen | gotchosen.com | 3 | 2 | rubiconproject.com |
-| Gourmet Ads | gourmetads.com | 20 | 19 | inmobi.com |
-| highfivve GmbH | highfivve.com | 17 | 16 | inmobi.com |
-| Hive Digital (ZA Office) | hivedigital.media | 2 | 1 | rubiconproject.com |
-| Imprezia.ai | imprezia.ai | 2 | 1 | inmobi.com |
-| Infoplaza Network B.V. (via EB) | infoplaza.nl | 4 | 3 | onetag.com |
-| ironSource | is.com | 5 | 4 | inmobi.com |
-| KUANTYX MEDIA LIMITED | kntxy.com | 11 | 10 | inmobi.com |
-| Lanista Concepts, LLC | lanistaconcepts.com | 3 | 2 | rubiconproject.com |
-| LG Ads | lgads.tv | 17 | 16 | inmobi.com |
-| Lupon Media LTD | luponmedia.com | 9 | 8 | ogury.com |
-| Mediafuse | mediafuse.com | 20 | 19 | inmobi.com |
-| Mediavine | mediavine.com | 30 | 29 | inmobi.com |
-| Medios Federales | mediosfederales.com | 6 | 5 | ogury.com |
-| Membrana Media | membrana.media | 3 | 2 | inmobi.com |
-| Minute Media | minutemedia.com | 22 | 21 | inmobi.com |
-| Elite Street LLC | mobimight.com | 3 | 2 | pubmatic.com |
-| Monetumo ApS | monetumo.com | 3 | 2 | inmobi.com |
-| Monumetric | monumetric.com | 21 | 20 | inmobi.com |
-| Must Digital Agency - oRTB | mustdigitalagency.com | 3 | 2 | smartadserver.com |
-| Naver Corp. | navercorp.com | 2 | 1 | inmobi.com |
+| SpinX | spinx.io | 3 | 1 | sharethrough.com, smartadserver.com |
+| adWMG | adwmg.com | 15 | 14 | loopme.com |
+| Appstock LTD | app-stock.com | 12 | 11 | rubiconproject.com |
+| 100PercentFill | darkmattertv.com | 7 | 6 | sonobi.com |
+| EYE CONIC SPOT LLC | eyeconicspot.com | 4 | 3 | media.net |
+| Fuel Digital Inc. | fueldigitalmedia.com | 15 | 14 | pubmatic.com |
+| Greedygame | greedygame.com | 3 | 2 | inmobi.com |
+| Intenze | intenze.co | 5 | 4 | ogury.com |
+| KLEEKR | kleekr.com | 3 | 2 | themediagrid.com |
+| Little Dot Studios | littledotstudios.com | 2 | 1 | pubmatic.com |
+| Pro MobiTech Technologies LTD | mobitech.io | 5 | 4 | pubmatic.com |
+| Newsweek Publishing LLC | newsweek.com | 4 | 3 | onetag.com |
+| Phaistos Networks | phaistosnetworks.gr | 9 | 8 | indexexchange.com |
+| Simulmedia, Inc | playerwon.com | 4 | 3 | rubiconproject.com |
+| Simply Media Group Limited | simplymediagroup.co.uk | 4 | 3 | rubiconproject.com |
+| Traffective | traffective.com | 21 | 20 | openx.com |
+| Trafficrich [HB] | trafficrich.com | 4 | 3 | rubiconproject.com |
+| Zmaticoo | zmaticoo.com | 22 | 21 | onetag.com |
 
 
 ## New intermediaries
 
 | name | domain | exchanges | added to |
 |---|---|---|---|
-| Appnexus | abc123.com | 1 | media.net |
-| AdMate, s.r.o. | admate.cz | 1 | rubiconproject.com |
-| AlumaX | alumax.ai | 1 | triplelift.com |
-| CognitionDigital.io, Inc. d/b/a Arpeggio | arpeggio.com | 1 | freewheel.tv |
-| Cofina Media SA | cofina.pt | 2 | appnexus.com, xandr.com |
-| Next Publisher Srl | cucchiaio.it | 1 | ogury.com |
-| E-Planning [OW] | eplanning.com | 1 | adyoulike.com |
-| Publift (via OB) | google.ocm | 1 | media.net |
-| JMS Comunicação e Tecnologia Ltda | jmscomunicacao.com.br | 1 | seedtag.com |
-| Leonardo ADV Srl | leonardoadv.it | 1 | rubiconproject.com |
-| Magna Media Group FZ LLE | magna-mediagroup.digital | 2 | appnexus.com, xandr.com |
-| MangoX | mangox.io | 1 | media.net |
-| Aditude Direct | - | 1 | amxrtb.com |
-| thebonddigital | - | 2 | sharethrough.com, smartadserver.com |
-| windowsighttest | - | 2 | sharethrough.com, smartadserver.com |
-| Navori | navori.com | 1 | improvedigital.com |
-| Villa Olimpica Servico Eireli | nortemkt.com | 1 | rubiconproject.com |
-| Ringier AG | ringier-advertising.ch | 1 | rubiconproject.com |
-| Rocking.gr | rocking.gr | 1 | onetag.com |
-| Urban Edge Networks  Supply  US | urbanedgenetwork.net | 2 | sharethrough.com, smartadserver.com |
-| PinPoint Vandelay Media | vandelay-media.com | 1 | onetag.com |
+| Freestar | addictinggames.com | 1 | triplelift.com |
+| DuoPeak, Inc. | duopeak.com | 1 | video.unrulymedia.com |
+| GROUPE CAMPUS | groupe-campus.com | 1 | improvedigital.com |
+| Freestar | guestreservations.com | 1 | triplelift.com |
+| Freestar | hymnary.org | 1 | triplelift.com |
+| Revenue Cat | - | 2 | sharethrough.com, smartadserver.com |
+| PubLift | online-calculator.com | 1 | triplelift.com |
+| PubLift | online-stopwatch.com | 1 | triplelift.com |
+| PHAISTOS NETWORKS S.A. | phaistos.eu | 1 | indexexchange.com |
+| Playgama | playgama.com | 2 | sharethrough.com, smartadserver.com |
+| Pubstack | pubstack.com | 1 | amxrtb.com |
+| Power Ads | pwr-ads.com | 1 | triplelift.com |
+| PubLift | uquiz.com | 1 | triplelift.com |
+| Veesible, s.r.l. | veesible.it | 1 | rubiconproject.com |
 
 
 ## Exchanges whose seller count changed
 
 | exchange | sellers before | after | change |
 |---|---|---|---|
-| improvedigital.com | 19465 | 19071 | -394 |
-| pubmatic.com | 6515 | 6482 | -33 |
-| ogury.com | 868 | 845 | -23 |
-| appnexus.com | 1511 | 1492 | -19 |
-| xandr.com | 1511 | 1494 | -17 |
-| smaato.com | 3003 | 2987 | -16 |
-| indexexchange.com | 4068 | 4056 | -12 |
-| inmobi.com | 3237 | 3229 | -8 |
-| contextweb.com | 41 | 40 | -1 |
-| risecodes.com | 349 | 348 | -1 |
-| amxrtb.com | 629 | 630 | 1 |
-| connatix.com | 1299 | 1300 | 1 |
-| nativo.com | 953 | 954 | 1 |
-| sonobi.com | 421 | 422 | 1 |
-| themediagrid.com | 1672 | 1673 | 1 |
-| yahoo.com | 361 | 362 | 1 |
-| conversantmedia.com | 1114 | 1116 | 2 |
-| freewheel.tv | 2260 | 2262 | 2 |
-| gumgum.com | 596 | 598 | 2 |
-| aps.amazon.com | 2946 | 2949 | 3 |
-| seedtag.com | 1133 | 1136 | 3 |
-| teads.tv | 4002 | 4005 | 3 |
-| video.unrulymedia.com | 1587 | 1591 | 4 |
-| onetag.com | 2340 | 2345 | 5 |
-| sharethrough.com | 5206 | 5211 | 5 |
-| smartadserver.com | 2704 | 2709 | 5 |
-| triplelift.com | 7941 | 7948 | 7 |
-| rubiconproject.com | 3202 | 3226 | 24 |
-| openx.com | 7782 | 7811 | 29 |
-| loopme.com | 8075 | 8141 | 66 |
-| media.net | 2702 | 2912 | 210 |
+| sonobi.com | 422 | 409 | -13 |
+| smaato.com | 2987 | 2977 | -10 |
+| xandr.com | 1494 | 1485 | -9 |
+| appnexus.com | 1492 | 1485 | -7 |
+| inmobi.com | 3229 | 3226 | -3 |
+| ogury.com | 845 | 842 | -3 |
+| gumgum.com | 598 | 596 | -2 |
+| adyoulike.com | 2834 | 2833 | -1 |
+| kargo.com | 396 | 397 | 1 |
+| nativo.com | 954 | 955 | 1 |
+| onetag.com | 2345 | 2346 | 1 |
+| rubiconproject.com | 3226 | 3227 | 1 |
+| connatix.com | 1300 | 1302 | 2 |
+| risecodes.com | 348 | 350 | 2 |
+| themediagrid.com | 1673 | 1675 | 2 |
+| aps.amazon.com | 2949 | 2952 | 3 |
+| freewheel.tv | 2262 | 2265 | 3 |
+| teads.tv | 4005 | 4008 | 3 |
+| amxrtb.com | 630 | 634 | 4 |
+| indexexchange.com | 4056 | 4060 | 4 |
+| seedtag.com | 1136 | 1140 | 4 |
+| video.unrulymedia.com | 1591 | 1598 | 7 |
+| lijit.com | 7342 | 7350 | 8 |
+| sharethrough.com | 5211 | 5219 | 8 |
+| smartadserver.com | 2709 | 2718 | 9 |
+| media.net | 2912 | 2923 | 11 |
+| pubmatic.com | 6482 | 6495 | 13 |
+| triplelift.com | 7948 | 7964 | 16 |
+| loopme.com | 8141 | 8173 | 32 |
+| openx.com | 7811 | 7846 | 35 |
+| improvedigital.com | 19071 | 19255 | 184 |
 
 
 ## Ad-tech companies that gained publishers
 
 | ad system | publishers before | after | gained |
 |---|---|---|---|
-| teal.works | 3 | 5 | buzzfeed.com, huffpost.com |
-| azberry.com | 0 | 1 | refinery29.com |
-| gb-next.ch | 1 | 2 | refinery29.com |
-| mobupps.com | 1 | 2 | refinery29.com |
-| ogury.com | 37 | 38 | latimes.com |
-| onetag.com | 45 | 46 | weather.com |
-| primis.tech | 12 | 13 | bild.de |
-| seedtag.com | 38 | 39 | latimes.com |
-| smartclipspain.com | 1 | 2 | refinery29.com |
-| xandr.com | 46 | 47 | weather.com |
+| richaudience.com | 28 | 31 | spiegel.de, thehill.com, thesun.co.uk |
+| goldvertise.com | 7 | 8 | spiegel.de |
+| rtbhouse.com | 9 | 10 | thehill.com |
