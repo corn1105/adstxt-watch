@@ -1,6 +1,6 @@
 {
- "date": "2026-11-01",
- "coverage": "Publishers read OK: 62 of 64. Exchange sellers.json read OK: 38 of 43.",
+ "date": "2026-11-08",
+ "coverage": "Publishers read OK: 62 of 64. Exchange sellers.json read OK: 40 of 43.",
  "errors": {
   "time.com": [
    "https://time.com/ads.txt: error (HTTP 406)",
@@ -14,17 +14,9 @@
    "https://google.com/sellers.json: error (HTTP 404)",
    "https://www.google.com/sellers.json: error (HTTP 404)"
   ],
-  "yieldmo.com": [
-   "https://yieldmo.com/sellers.json: error (HTTP 202)",
-   "https://www.yieldmo.com/sellers.json: error (HTTP 202)"
-  ],
   "adyoulike.com": [
    "https://adyoulike.com/sellers.json: error (ConnectTimeout)",
    "https://www.adyoulike.com/sellers.json: error (ConnectTimeout)"
-  ],
-  "sonobi.com": [
-   "https://sonobi.com/sellers.json: error (HTTP 202)",
-   "https://www.sonobi.com/sellers.json: error (HTTP 202)"
   ],
   "rhythmone.com": [
    "https://rhythmone.com/sellers.json: error (not valid JSON)",

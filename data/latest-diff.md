@@ -1,146 +1,202 @@
-# ads.txt watch: 2026-11-01 compared with 2026-10-25
+# ads.txt watch: 2026-11-08 compared with 2026-11-01
 
-Publishers read OK: 62 of 64. Exchange sellers.json read OK: 38 of 43. Compared on the 61 publishers and 38 exchanges that read OK in both runs, so download errors never count as losses.
+Publishers read OK: 62 of 64. Exchange sellers.json read OK: 40 of 43. Compared on the 62 publishers and 38 exchanges that read OK in both runs, so download errors never count as losses.
 
 ## Ad-tech companies that lost publishers
 
 | ad system | publishers before | after | lost |
 |---|---|---|---|
-| adyoulike.com | 34 | 33 | newsweek.com |
-| criteo.com | 31 | 30 | independent.co.uk |
-| freewheel.tv | 46 | 45 | lemonde.fr |
-| lijit.com | 48 | 47 | weather.com |
-| smilewanted.com | 13 | 12 | independent.co.uk |
-| tremorhub.com | 28 | 27 | independent.co.uk |
-| yahoo.com | 57 | 56 | independent.co.uk |
-| zetaglobal.net | 26 | 25 | newsweek.com |
+| condenast.com | 9 | 5 | buzzfeed.com, huffpost.com, independent.co.uk, standard.co.uk |
+| adnimation.com | 4 | 1 | buzzfeed.com, huffpost.com, independent.co.uk |
+| harrenmedia.com | 3 | 0 | buzzfeed.com, huffpost.com, independent.co.uk |
+| freewheel.tv | 46 | 44 | ign.com, msn.com |
+| qortex.ai | 7 | 5 | corriere.it, msn.com |
+| sonobi.com | 34 | 32 | gamespot.com, standard.co.uk |
+| spotim.market | 24 | 22 | corriere.it, ign.com |
+| springserve.com | 15 | 13 | corriere.it, gamespot.com |
+| trustx.org | 13 | 11 | cbsnews.com, cbssports.com |
+| undertone.com | 35 | 33 | techradar.com, tomsguide.com |
+| 33across.com | 31 | 30 | ign.com |
+| aceex.io | 4 | 3 | corriere.it |
+| addapptr.com | 2 | 1 | corriere.it |
+| admagnetix.io | 3 | 2 | corriere.it |
+| adyoulike.com | 34 | 33 | msn.com |
+| alkimi.org | 5 | 4 | corriere.it |
+| amxrtb.com | 44 | 43 | businessinsider.com |
+| anzu.io | 2 | 1 | corriere.it |
+| appads.in | 5 | 4 | corriere.it |
+| bidinfluence.com | 1 | 0 | corriere.it |
+| bidmatic.io | 4 | 3 | corriere.it |
+| bliink.io | 4 | 3 | corriere.it |
+| chocolateplatform.com | 5 | 4 | corriere.it |
+| clydo.io | 1 | 0 | corriere.it |
+| copper6.com | 25 | 24 | ign.com |
+| danoler.com | 2 | 1 | corriere.it |
+| ergadx.com | 1 | 0 | corriere.it |
+| escalax.io | 2 | 1 | corriere.it |
+| fueldigitalmedia.com | 4 | 3 | corriere.it |
+| gravite.net | 2 | 1 | corriere.it |
+| groupm.com | 15 | 14 | corriere.it |
+| ijit.com | 2 | 1 | corriere.it |
+| insider-inc.com | 1 | 0 | businessinsider.com |
+| instal.com | 2 | 1 | corriere.it |
+| kueez.com | 7 | 6 | standard.co.uk |
+| liveintent.com | 31 | 30 | gamespot.com |
+| mediafuse.com | 8 | 7 | corriere.it |
+| mgid.com | 6 | 5 | corriere.it |
+| nextmillennium.io | 8 | 7 | corriere.it |
+| pgamssp.com | 2 | 1 | corriere.it |
 
 
 ## Intermediaries gone from every exchange we read
 
 | name | domain | exchanges before | dropped from |
 |---|---|---|---|
-| 535 Media, LLC | 535media.com | 1 | video.unrulymedia.com |
-| Apex Flow Technologies | apexflowtechnologies.com | 1 | seedtag.com |
-| Boutique Audience Network LLC | boutiqueaudience.com | 1 | rubiconproject.com |
-| Gemius RO | gemius.ro | 1 | ogury.com |
-| THUNDER MONETIZATION PTE. LTD | hunder-monetize.com | 1 | freewheel.tv |
-| videoshakers | - | 2 | sharethrough.com, smartadserver.com |
-| On3 | on3.com | 1 | onetag.com |
-| Rocking.gr | rocking.gr | 1 | onetag.com |
-| Tapslead-HK-Export | tapslead.net | 1 | inmobi.com |
-| PinPoint Vandelay Media | vandelay-media.com | 1 | onetag.com |
+| Cars.com | cars.com | 1 | emxdgt.com |
+| Playwire | config.playwire.com | 2 | sharethrough.com, smartadserver.com |
+| Cosmose | cosmo.co | 1 | ogury.com |
+| Lola Digital Media LLC | loladigitalmedia.com | 1 | rubiconproject.com |
+| Mars Media Group | mars-technologies.com | 2 | sharethrough.com, smartadserver.com |
+| Midco Sports | midcosports.com | 1 | emxdgt.com |
+| RevIQ | reviq.app | 1 | richaudience.com |
+| SpinX PTE LTD | spinx.io | 1 | richaudience.com |
+| WIZADS OU | wizads.eu | 1 | richaudience.com |
 
 
 ## Intermediaries dropped by some exchanges
 
 | name | domain | exchanges before | after | dropped from |
 |---|---|---|---|---|
-| JustPremium | justpremium.com | 5 | 3 | appnexus.com, xandr.com |
-| Outbrain | outbrain.com | 12 | 10 | appnexus.com, indexexchange.com, xandr.com |
-| Power Ads | pwr-ads.com | 3 | 1 | criteo.com, themediagrid.com |
-| Adinplay | adinplay.com | 18 | 17 | indexexchange.com |
-| AdPushup | adpushup.com | 22 | 21 | indexexchange.com |
-| Nimbus Advertising Solutions | adsbynimbus.com | 15 | 14 | video.unrulymedia.com |
-| Adsolut | adsolut.in | 9 | 8 | richaudience.com |
-| Anyclip | anyclip.com | 18 | 17 | indexexchange.com |
-| Anzu Virtual Reality LTD | anzu.io | 22 | 21 | rubiconproject.com |
-| BCN Brand Community Network GmbH | bcn.group | 16 | 15 | ogury.com |
-| cas.ai | cas.ai | 6 | 5 | conversantmedia.com |
-| Connected Culture Group, Inc. | connectedculture.tv | 4 | 3 | loopme.com |
-| DigitalBloom S.r.l. | digitalbloom.it | 18 | 17 | indexexchange.com |
-| Digital Matter | digitalmatter.ai | 17 | 16 | indexexchange.com |
-| ExMarketPlace FZ LLC | exmarketplace.com | 15 | 14 | indexexchange.com |
-| Media Trade Craft | mediatradecraft.com | 27 | 26 | onetag.com |
-| OnDemandKorea | ondemandkorea.com | 3 | 2 | improvedigital.com |
-| Opera | opera.com | 16 | 15 | inmobi.com |
-| Organic Ventures Inc. | organic.ly | 15 | 14 | indexexchange.com |
-| Proad.se | proad.se | 11 | 10 | amxrtb.com |
-| Integer Media LLC | publir.com | 17 | 16 | ogury.com |
-| Reworld Media Factory | reworldmedia.com | 10 | 9 | indexexchange.com |
-| SAPO | sapo.pt | 8 | 7 | indexexchange.com |
-| Sunday Market | sunday.market | 3 | 2 | smaato.com |
-| GermaneMediaSolutionspvt.ltd. | thegermanemedia.com | 8 | 7 | onetag.com |
-| ThePlaceToBid | theplacetobid.fr | 10 | 9 | indexexchange.com |
+| Adviddo EOOD | adviddo.com | 3 | 1 | sharethrough.com, smartadserver.com |
+| Adtraction Limited | plexpeer.com | 3 | 1 | sharethrough.com, smartadserver.com |
+| AdApex | adapex.io | 22 | 21 | indexexchange.com |
+| Adinplay | adinplay.com | 17 | 16 | media.net |
+| AdRoot Technologies LLC | adroot.io | 4 | 3 | ogury.com |
+| Adsolut | adsolut.in | 8 | 7 | kargo.com |
+| Appveritas LTD | apptimism.com | 3 | 2 | media.net |
+| Amazon | aps.amazon.com | 13 | 12 | improvedigital.com |
+| Matterfull Inc | bematterfull.com | 5 | 4 | loopme.com |
+| Byte Cyber Limited | bid-matrix.com | 3 | 2 | richaudience.com |
+| Trendesk.tv LLC - Bidfuse | bidfuse.com | 5 | 4 | video.unrulymedia.com |
+| Bidgency Group | bidgx.com | 9 | 8 | rubiconproject.com |
+| Brow.si Mobile, ltd. | browsi.com | 5 | 4 | video.unrulymedia.com |
+| Consumable | consumable.com | 16 | 15 | indexexchange.com |
+| Digital Sail Cyprus LTD | d-sail.com | 8 | 7 | richaudience.com |
+| Dexerto | dexerto.com | 9 | 8 | smaato.com |
+| e-Healthcare Solutions LLC | ehealthcaresolutions.com | 4 | 3 | media.net |
+| Firefly Engagement | fireflyengagement.com | 2 | 1 | media.net |
+| AppendAd Ltd | firstimpression.io | 8 | 7 | rubiconproject.com |
+| Flower Ads | flower-ads.com | 12 | 11 | onetag.com |
+| Galaxie Media | galaxiemedia.fr | 8 | 7 | indexexchange.com |
+| ICardoo Digital Marketing Srl | hbagency.it | 18 | 17 | ogury.com |
+| KUANTYX MEDIA LIMITED | kuantyx.com | 2 | 1 | rubiconproject.com |
+| Mediamond S.p.A. | mediamond.it | 6 | 5 | ogury.com |
+| MediaVerse.ai ltd | mediaverse.ai | 13 | 12 | rubiconproject.com |
+| DA Media Management | mngmnt.de | 3 | 2 | onetag.com |
+| Modern Luxury | modernluxurymedia.com | 2 | 1 | media.net |
+| Monumetric | monumetric.com | 20 | 19 | indexexchange.com |
+| Multimerica AdEX, LLC | multimericamedia.com | 4 | 3 | loopme.com |
+| MyFeature Inc | myfeature.tv | 8 | 7 | video.unrulymedia.com |
+| Next Media S.r.l | next14.com | 13 | 12 | indexexchange.com |
+| Verse | nexverse.ai | 10 | 9 | onetag.com |
+| Opti Digital SAS | optidigital.fr | 6 | 5 | smartadserver.com |
+| ozone | ozoneproject.com | 5 | 4 | inmobi.com |
+| PGAM Media | pgammedia.com | 11 | 10 | loopme.com |
+| Rhebus | rhebus.works | 8 | 7 | rubiconproject.com |
+| Ringier Serbia d.o.o | ringier.rs | 7 | 6 | indexexchange.com |
+| RTB One OOD | rtbone.com | 3 | 2 | richaudience.com |
+| RTK.io | rtk.io | 4 | 3 | video.unrulymedia.com |
+| S3 Inclusive | s3media.co.jp | 4 | 3 | onetag.com |
+| Digital Exchange S.r.l | sky.it | 3 | 2 | ogury.com |
+| Streamix | streamix-tv.com | 3 | 2 | loopme.com |
+| Teqfire | teqfire.com | 2 | 1 | loopme.com |
+| Townsquare Media - Reseller | townsquaremedia.com | 4 | 3 | emxdgt.com |
+| Tredio | tredio.io | 10 | 9 | video.unrulymedia.com |
+| UnderdogMedia | underdogmedia.com | 9 | 8 | indexexchange.com |
+| Virtual Minds GmbH | yieldlab.net | 6 | 5 | indexexchange.com |
 
 
 ## New intermediaries
 
 | name | domain | exchanges | added to |
 |---|---|---|---|
-| Adhubmedia | adhubmedia.com | 1 | inmobi.com |
-| ADSORNOT MEDIA - FZCO | adsornot.com | 2 | appnexus.com, xandr.com |
-| Weatherzone | apps.weatherzone.com.au | 1 | inmobi.com |
-| 535 Media, LLC | cdn.pilotx.tv | 1 | video.unrulymedia.com |
-| FourM Inc. | corp.fourm.jp | 1 | inmobi.com |
-| Cosmose | cosmo.co | 1 | ogury.com |
-| Crystall | crystall.io | 1 | risecodes.com |
-| DISKWALA LLC | diskwala.com | 1 | inmobi.com |
-| Eyeconic Spot | eyeconic.com | 1 | smaato.com |
-| BIDNEX HONG KONG LIMITED-1 | flatfishsafe.com | 1 | inmobi.com |
-| FootballCo Media Limited | goal.com | 1 | inmobi.com |
-| Inform, Inc. | inform.com | 1 | rubiconproject.com |
-| United Marketing Technologies, Inc. | ja.ad-stir.com | 1 | inmobi.com |
-| KLIPY | klipy.co | 1 | inmobi.com |
-| Unity | - | 1 | undertone.com |
-| Nexverse | nexverse.com | 1 | triplelift.com |
-| BOM NEGÓCIO ATIVIDADES DE INTERNET LTDA | olx.com.br | 1 | seedtag.com |
-| Passback Inc. | passback.tv | 1 | video.unrulymedia.com |
-| Play Line Entertainment | playlineentertainment.com | 1 | triplelift.com |
-| REVAMP PRO LLC | pmlatam.com | 1 | seedtag.com |
-| RayMobile Games | raymobile.games | 1 | pubmatic.com |
-| ACP Servis, s.r.o.  (Reachwise Holding, s.r.o.) | reachwise.tv | 1 | improvedigital.com |
-| STORMSTRIKE INC. | stormstrike.gg | 1 | inmobi.com |
-| The Hindu Group of Publishing | thehindu.com | 1 | inmobi.com |
-| UCWEB SINGAPORE PTE. LTD. | ucweb.com | 1 | loopme.com |
-| UMICALL.INC | umicall.com | 1 | inmobi.com |
-| videoshakers | videoshakers.tv | 2 | sharethrough.com, smartadserver.com |
+| Adspin Technology Solutions Limited | adspin.io | 1 | improvedigital.com |
+| Algo Media Ltd | algomedia.tech | 1 | ogury.com |
+| Bid8 | bid8.com | 1 | triplelift.com |
+| CMC Online s.r.o. | cmconline.cz | 1 | seedtag.com |
+| Nextweb | e-radio.gr | 1 | onetag.com |
+| Liftoff | liftoff.ai | 2 | improvedigital.com, kargo.com |
+| loopmevgictv | - | 1 | smaato.com |
+| Osmos | osmos.ai | 2 | improvedigital.com, rubiconproject.com |
+| Audio Ad Brasil Distribuicao e Veiculacao de Midia Ltda | populis.com | 1 | rubiconproject.com |
+| Rocking.gr | rocking.gr | 1 | onetag.com |
+| DRA Derya Aksu | testseite.de | 1 | ogury.com |
+| TGI Sport | tgisport.com | 1 | improvedigital.com |
+| TronTV | tron.network | 1 | onetag.com |
+| WPP | wpp.com | 1 | freewheel.tv |
 
 
 ## Exchanges whose seller count changed
 
 | exchange | sellers before | after | change |
 |---|---|---|---|
-| indexexchange.com | 4059 | 4038 | -21 |
-| smaato.com | 2947 | 2926 | -21 |
-| onetag.com | 2343 | 2335 | -8 |
-| inmobi.com | 3222 | 3220 | -2 |
-| appnexus.com | 1476 | 1475 | -1 |
-| richaudience.com | 1404 | 1403 | -1 |
-| xandr.com | 1476 | 1475 | -1 |
-| emxdgt.com | 200 | 201 | 1 |
-| undertone.com | 139 | 140 | 1 |
-| video.unrulymedia.com | 1600 | 1601 | 1 |
-| yahoo.com | 363 | 364 | 1 |
-| adform.com | 682 | 684 | 2 |
-| conversantmedia.com | 1118 | 1120 | 2 |
-| nativo.com | 969 | 971 | 2 |
-| ogury.com | 827 | 829 | 2 |
-| seedtag.com | 1146 | 1148 | 2 |
-| sharethrough.com | 5234 | 5236 | 2 |
-| smartadserver.com | 2732 | 2734 | 2 |
-| criteo.com | 1683 | 1686 | 3 |
-| kargo.com | 383 | 386 | 3 |
-| risecodes.com | 351 | 354 | 3 |
-| themediagrid.com | 1683 | 1686 | 3 |
-| connatix.com | 1306 | 1310 | 4 |
-| lijit.com | 7350 | 7355 | 5 |
-| pubmatic.com | 6507 | 6515 | 8 |
-| rubiconproject.com | 3209 | 3219 | 10 |
-| triplelift.com | 7973 | 7988 | 15 |
-| media.net | 2975 | 3002 | 27 |
-| openx.com | 7923 | 7983 | 60 |
-| loopme.com | 8321 | 8433 | 112 |
-| improvedigital.com | 19672 | 19861 | 189 |
+| media.net | 3002 | 2895 | -107 |
+| rubiconproject.com | 3219 | 3197 | -22 |
+| smaato.com | 2926 | 2909 | -17 |
+| video.unrulymedia.com | 1601 | 1594 | -7 |
+| richaudience.com | 1403 | 1400 | -3 |
+| connatix.com | 1310 | 1309 | -1 |
+| gumgum.com | 601 | 600 | -1 |
+| freewheel.tv | 1878 | 1879 | 1 |
+| nativo.com | 971 | 972 | 1 |
+| sharethrough.com | 5236 | 5237 | 1 |
+| smartadserver.com | 2734 | 2735 | 1 |
+| undertone.com | 140 | 141 | 1 |
+| conversantmedia.com | 1120 | 1122 | 2 |
+| risecodes.com | 354 | 356 | 2 |
+| indexexchange.com | 4038 | 4041 | 3 |
+| teads.tv | 4009 | 4013 | 4 |
+| kargo.com | 386 | 391 | 5 |
+| ogury.com | 829 | 834 | 5 |
+| onetag.com | 2335 | 2340 | 5 |
+| lijit.com | 7355 | 7361 | 6 |
+| seedtag.com | 1148 | 1155 | 7 |
+| pubmatic.com | 6515 | 6523 | 8 |
+| triplelift.com | 7988 | 8001 | 13 |
+| criteo.com | 1686 | 1702 | 16 |
+| inmobi.com | 3220 | 3236 | 16 |
+| themediagrid.com | 1686 | 1702 | 16 |
+| openx.com | 7983 | 8031 | 48 |
+| loopme.com | 8433 | 8500 | 67 |
+| improvedigital.com | 19861 | 20006 | 145 |
 
 
 ## Ad-tech companies that gained publishers
 
 | ad system | publishers before | after | gained |
 |---|---|---|---|
-| alephdigital.com | 0 | 2 | cbsnews.com, cbssports.com |
-| bidfuse.com | 0 | 2 | cbsnews.com, cbssports.com |
-| audienzz.com | 3 | 4 | lemonde.fr |
-| conversantmedia.com | 41 | 42 | lemonde.fr |
-| nextmillennium.io | 7 | 8 | gamespot.com |
-| seedtag.com | 39 | 40 | dailymail.co.uk |
+| omni-dex.io | 1 | 4 | corriere.it, rollingstone.com, variety.com |
+| pubventuresmedia.com | 2 | 4 | rollingstone.com, variety.com |
+| adorphic.com | 0 | 1 | elpais.com |
+| azberry.com | 1 | 2 | corriere.it |
+| bidplay.ai | 0 | 1 | elpais.com |
+| bluexad.ai | 2 | 3 | elpais.com |
+| clickio.com | 1 | 2 | elpais.com |
+| cwire.com | 2 | 3 | elpais.com |
+| datammatic.com | 0 | 1 | elpais.com |
+| eskimi.com | 10 | 11 | ign.com |
+| gb-next.ch | 2 | 3 | corriere.it |
+| limpid.tv | 2 | 3 | elpais.com |
+| mobupps.com | 2 | 3 | corriere.it |
+| nativo.com | 39 | 40 | telegraph.co.uk |
+| netaddiction.it | 1 | 2 | corriere.it |
+| nomadelab.com | 0 | 1 | elpais.com |
+| opamarketplace.com | 16 | 17 | standard.co.uk |
+| pubgalaxy.com | 2 | 3 | corriere.it |
+| rmb.be | 1 | 2 | corriere.it |
+| smaato.con | 0 | 1 | telegraph.co.uk |
+| smartclip.com | 0 | 1 | elpais.com |
+| smartclipspain.com | 2 | 3 | corriere.it |
+| stailamedia.com | 4 | 5 | corriere.it |
+| tappx.com | 9 | 10 | corriere.it |
+| toponad.com | 0 | 1 | elpais.com |
