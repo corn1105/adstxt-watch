@@ -1,5 +1,5 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-15",
  "coverage": "Publishers read OK: 62 of 64. Exchange sellers.json read OK: 40 of 43.",
  "errors": {
   "time.com": [
@@ -14,9 +14,9 @@
    "https://google.com/sellers.json: error (HTTP 404)",
    "https://www.google.com/sellers.json: error (HTTP 404)"
   ],
-  "adyoulike.com": [
-   "https://adyoulike.com/sellers.json: error (ConnectTimeout)",
-   "https://www.adyoulike.com/sellers.json: error (ConnectTimeout)"
+  "adform.com": [
+   "https://adform.com/sellers.json: error (HTTP 403)",
+   "https://www.adform.com/sellers.json: error (HTTP 403)"
   ],
   "rhythmone.com": [
    "https://rhythmone.com/sellers.json: error (not valid JSON)",

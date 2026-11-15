@@ -1,713 +1,23 @@
 {
- "date": "2026-11-08",
- "previous": "2026-11-01",
+ "date": "2026-11-15",
+ "previous": "2026-11-08",
  "compared_publishers": 62,
- "compared_exchanges": 38,
+ "compared_exchanges": 39,
  "adsys": [
   {
+   "adsys": "152media.info",
+   "before": 14,
+   "after": 12,
+   "lost": [
+    "express.co.uk",
+    "mirror.co.uk"
+   ],
+   "gained": []
+  },
+  {
    "adsys": "33across.com",
-   "before": 31,
-   "after": 30,
-   "lost": [
-    "ign.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "aceex.io",
-   "before": 4,
-   "after": 3,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "addapptr.com",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "adipolosolutions.com",
-   "before": 23,
-   "after": 23,
-   "lost": [
-    "ign.com"
-   ],
-   "gained": [
-    "standard.co.uk"
-   ]
-  },
-  {
-   "adsys": "admagnetix.io",
-   "before": 3,
-   "after": 2,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "adnimation.com",
-   "before": 4,
-   "after": 1,
-   "lost": [
-    "buzzfeed.com",
-    "huffpost.com",
-    "independent.co.uk"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "adorphic.com",
-   "before": 0,
-   "after": 1,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "adyoulike.com",
-   "before": 34,
-   "after": 33,
-   "lost": [
-    "msn.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "alkimi.org",
-   "before": 5,
-   "after": 4,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "amxrtb.com",
-   "before": 44,
-   "after": 43,
-   "lost": [
-    "businessinsider.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "anzu.io",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "appads.in",
-   "before": 5,
-   "after": 4,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "azberry.com",
-   "before": 1,
-   "after": 2,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "bidinfluence.com",
-   "before": 1,
-   "after": 0,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "bidmatic.io",
-   "before": 4,
-   "after": 3,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "bidplay.ai",
-   "before": 0,
-   "after": 1,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "bliink.io",
-   "before": 4,
-   "after": 3,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "bluexad.ai",
-   "before": 2,
-   "after": 3,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "chocolateplatform.com",
-   "before": 5,
-   "after": 4,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "clickio.com",
-   "before": 1,
-   "after": 2,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "clydo.io",
-   "before": 1,
-   "after": 0,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "condenast.com",
-   "before": 9,
-   "after": 5,
-   "lost": [
-    "buzzfeed.com",
-    "huffpost.com",
-    "independent.co.uk",
-    "standard.co.uk"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "conversantmedia.com",
-   "before": 43,
-   "after": 43,
-   "lost": [
-    "ign.com"
-   ],
-   "gained": [
-    "telegraph.co.uk"
-   ]
-  },
-  {
-   "adsys": "copper6.com",
-   "before": 25,
-   "after": 24,
-   "lost": [
-    "ign.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "cwire.com",
-   "before": 2,
-   "after": 3,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "danoler.com",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "datammatic.com",
-   "before": 0,
-   "after": 1,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "ergadx.com",
-   "before": 1,
-   "after": 0,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "escalax.io",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "eskimi.com",
-   "before": 10,
-   "after": 11,
-   "lost": [],
-   "gained": [
-    "ign.com"
-   ]
-  },
-  {
-   "adsys": "freewheel.tv",
-   "before": 46,
-   "after": 44,
-   "lost": [
-    "ign.com",
-    "msn.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "fueldigitalmedia.com",
-   "before": 4,
-   "after": 3,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "gb-next.ch",
-   "before": 2,
-   "after": 3,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "gravite.net",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "groupm.com",
-   "before": 15,
-   "after": 14,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "harrenmedia.com",
-   "before": 3,
-   "after": 0,
-   "lost": [
-    "buzzfeed.com",
-    "huffpost.com",
-    "independent.co.uk"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "ijit.com",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "insider-inc.com",
-   "before": 1,
-   "after": 0,
-   "lost": [
-    "businessinsider.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "instal.com",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "kueez.com",
-   "before": 7,
-   "after": 6,
-   "lost": [
-    "standard.co.uk"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "limpid.tv",
-   "before": 2,
-   "after": 3,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "liveintent.com",
-   "before": 31,
-   "after": 30,
-   "lost": [
-    "gamespot.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "loopme.com",
-   "before": 40,
-   "after": 40,
-   "lost": [
-    "ign.com"
-   ],
-   "gained": [
-    "telegraph.co.uk"
-   ]
-  },
-  {
-   "adsys": "mediafuse.com",
-   "before": 8,
-   "after": 7,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "mgid.com",
-   "before": 6,
-   "after": 5,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "mobupps.com",
-   "before": 2,
-   "after": 3,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "nativo.com",
-   "before": 39,
-   "after": 40,
-   "lost": [],
-   "gained": [
-    "telegraph.co.uk"
-   ]
-  },
-  {
-   "adsys": "netaddiction.it",
-   "before": 1,
-   "after": 2,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "nextmillennium.io",
-   "before": 8,
-   "after": 7,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "nobid.io",
-   "before": 9,
-   "after": 9,
-   "lost": [
-    "independent.co.uk"
-   ],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "nomadelab.com",
-   "before": 0,
-   "after": 1,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "omni-dex.io",
-   "before": 1,
-   "after": 4,
-   "lost": [],
-   "gained": [
-    "corriere.it",
-    "rollingstone.com",
-    "variety.com"
-   ]
-  },
-  {
-   "adsys": "opamarketplace.com",
-   "before": 16,
-   "after": 17,
-   "lost": [],
-   "gained": [
-    "standard.co.uk"
-   ]
-  },
-  {
-   "adsys": "pgamssp.com",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "playground.xyz",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "ign.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "pmc.com",
-   "before": 21,
-   "after": 20,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "pubgalaxy.com",
-   "before": 2,
-   "after": 3,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "pubventuresmedia.com",
-   "before": 2,
-   "after": 4,
-   "lost": [],
-   "gained": [
-    "rollingstone.com",
-    "variety.com"
-   ]
-  },
-  {
-   "adsys": "qortex.ai",
-   "before": 7,
-   "after": 5,
-   "lost": [
-    "corriere.it",
-    "msn.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "rmb.be",
-   "before": 1,
-   "after": 2,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "sabio.us",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "saharmedia.net",
-   "before": 2,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "showheroes.com",
-   "before": 11,
-   "after": 10,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "smaato.com",
-   "before": 49,
-   "after": 48,
-   "lost": [
-    "ign.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "smaato.con",
-   "before": 0,
-   "after": 1,
-   "lost": [],
-   "gained": [
-    "telegraph.co.uk"
-   ]
-  },
-  {
-   "adsys": "smartclip.com",
-   "before": 0,
-   "after": 1,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "smartclipspain.com",
-   "before": 2,
-   "after": 3,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "smoot.ai",
-   "before": 1,
-   "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "sonobi.com",
-   "before": 34,
-   "after": 32,
-   "lost": [
-    "gamespot.com",
-    "standard.co.uk"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "spotim.market",
-   "before": 24,
-   "after": 22,
-   "lost": [
-    "corriere.it",
-    "ign.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "springserve.com",
-   "before": 15,
-   "after": 13,
-   "lost": [
-    "corriere.it",
-    "gamespot.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "stailamedia.com",
-   "before": 4,
-   "after": 5,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "tappx.com",
-   "before": 9,
-   "after": 10,
-   "lost": [],
-   "gained": [
-    "corriere.it"
-   ]
-  },
-  {
-   "adsys": "teads.tv",
-   "before": 47,
-   "after": 46,
-   "lost": [
-    "businessinsider.com"
-   ],
-   "gained": []
-  },
-  {
-   "adsys": "toponad.com",
-   "before": 0,
-   "after": 1,
-   "lost": [],
-   "gained": [
-    "elpais.com"
-   ]
-  },
-  {
-   "adsys": "trustx.org",
-   "before": 13,
-   "after": 11,
+   "before": 30,
+   "after": 28,
    "lost": [
     "cbsnews.com",
     "cbssports.com"
@@ -715,192 +25,405 @@
    "gained": []
   },
   {
-   "adsys": "tviq.io",
+   "adsys": "alephdigital.com",
    "before": 2,
-   "after": 1,
+   "after": 0,
    "lost": [
-    "corriere.it"
+    "cbsnews.com",
+    "cbssports.com"
    ],
    "gained": []
   },
   {
-   "adsys": "undertone.com",
-   "before": 35,
-   "after": 33,
+   "adsys": "bidease.com",
+   "before": 2,
+   "after": 0,
    "lost": [
-    "techradar.com",
-    "tomsguide.com"
+    "cbsnews.com",
+    "cbssports.com"
    ],
    "gained": []
   },
   {
-   "adsys": "vi.ai",
-   "before": 23,
+   "adsys": "bidgx.com",
+   "before": 11,
+   "after": 10,
+   "lost": [
+    "gamespot.com"
+   ],
+   "gained": []
+  },
+  {
+   "adsys": "blockthrough.com",
+   "before": 17,
+   "after": 15,
+   "lost": [
+    "express.co.uk",
+    "mirror.co.uk"
+   ],
+   "gained": []
+  },
+  {
+   "adsys": "carliba.io",
+   "before": 6,
+   "after": 7,
+   "lost": [],
+   "gained": [
+    "gamespot.com"
+   ]
+  },
+  {
+   "adsys": "copper6.com",
+   "before": 24,
    "after": 22,
    "lost": [
-    "corriere.it"
+    "cbsnews.com",
+    "cbssports.com"
    ],
    "gained": []
   },
   {
-   "adsys": "viralize.com",
-   "before": 7,
-   "after": 6,
+   "adsys": "didna.io",
+   "before": 12,
+   "after": 10,
    "lost": [
-    "corriere.it"
+    "cbsnews.com",
+    "cbssports.com"
    ],
    "gained": []
   },
   {
-   "adsys": "wunderkind.co",
-   "before": 19,
-   "after": 18,
+   "adsys": "fabrik.com",
+   "before": 9,
+   "after": 7,
    "lost": [
-    "ign.com"
+    "cbsnews.com",
+    "cbssports.com"
    ],
    "gained": []
   },
   {
-   "adsys": "x.adprime.com",
-   "before": 2,
+   "adsys": "infolinks.com",
+   "before": 17,
+   "after": 16,
+   "lost": [
+    "theguardian.com"
+   ],
+   "gained": []
+  },
+  {
+   "adsys": "insticator.com",
+   "before": 20,
+   "after": 22,
+   "lost": [],
+   "gained": [
+    "cbsnews.com",
+    "cbssports.com"
+   ]
+  },
+  {
+   "adsys": "league-m.de",
+   "before": 3,
+   "after": 4,
+   "lost": [],
+   "gained": [
+    "gamespot.com"
+   ]
+  },
+  {
+   "adsys": "lemmatechnologies.com",
+   "before": 4,
+   "after": 2,
+   "lost": [
+    "cbsnews.com",
+    "cbssports.com"
+   ],
+   "gained": []
+  },
+  {
+   "adsys": "loopme.com",
+   "before": 40,
+   "after": 42,
+   "lost": [],
+   "gained": [
+    "cbsnews.com",
+    "cbssports.com"
+   ]
+  },
+  {
+   "adsys": "nativo.com",
+   "before": 40,
+   "after": 41,
+   "lost": [],
+   "gained": [
+    "bild.de"
+   ]
+  },
+  {
+   "adsys": "numatec.com",
+   "before": 0,
    "after": 1,
-   "lost": [
-    "corriere.it"
-   ],
-   "gained": []
+   "lost": [],
+   "gained": [
+    "elpais.com"
+   ]
   },
   {
-   "adsys": "yieldmo.com",
-   "before": 51,
-   "after": 50,
-   "lost": [
-    "standard.co.uk"
-   ],
-   "gained": []
+   "adsys": "omgstudios.com",
+   "before": 4,
+   "after": 5,
+   "lost": [],
+   "gained": [
+    "gamespot.com"
+   ]
   },
   {
-   "adsys": "zetaglobal.net",
-   "before": 26,
+   "adsys": "ottadvisors.com",
+   "before": 25,
    "after": 26,
+   "lost": [],
+   "gained": [
+    "bild.de"
+   ]
+  },
+  {
+   "adsys": "pmc.com",
+   "before": 20,
+   "after": 20,
    "lost": [
-    "ign.com"
+    "gamespot.com"
    ],
    "gained": [
-    "telegraph.co.uk"
+    "bild.de"
    ]
+  },
+  {
+   "adsys": "programmaticx.ai",
+   "before": 5,
+   "after": 7,
+   "lost": [],
+   "gained": [
+    "cbsnews.com",
+    "cbssports.com"
+   ]
+  },
+  {
+   "adsys": "pubnative.net",
+   "before": 18,
+   "after": 20,
+   "lost": [],
+   "gained": [
+    "cbsnews.com",
+    "cbssports.com"
+   ]
+  },
+  {
+   "adsys": "sharethrough.com",
+   "before": 54,
+   "after": 56,
+   "lost": [],
+   "gained": [
+    "cosmopolitan.com",
+    "goodhousekeeping.com"
+   ]
+  },
+  {
+   "adsys": "smartclip.net",
+   "before": 15,
+   "after": 16,
+   "lost": [],
+   "gained": [
+    "gamespot.com"
+   ]
+  },
+  {
+   "adsys": "thunder-monetize.com",
+   "before": 2,
+   "after": 5,
+   "lost": [],
+   "gained": [
+    "cbsnews.com",
+    "cbssports.com",
+    "yahoo.com"
+   ]
+  },
+  {
+   "adsys": "trustedstack.com",
+   "before": 28,
+   "after": 26,
+   "lost": [
+    "express.co.uk",
+    "mirror.co.uk"
+   ],
+   "gained": []
+  },
+  {
+   "adsys": "xandr.com",
+   "before": 48,
+   "after": 47,
+   "lost": [
+    "theguardian.com"
+   ],
+   "gained": []
   }
  ],
  "companies": [
   {
-   "key": "adapex.io",
-   "name": "AdApex",
-   "domain": "adapex.io",
-   "exchanges_before": 22,
-   "exchanges_after": 21,
-   "listings_before": 46,
-   "listings_after": 45,
-   "dropped_from": [
-    "indexexchange.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "adinplay.com",
-   "name": "Adinplay",
-   "domain": "adinplay.com",
-   "exchanges_before": 17,
-   "exchanges_after": 16,
-   "listings_before": 24,
-   "listings_after": 23,
+   "key": "152media.info",
+   "name": "152Media",
+   "domain": "152media.info",
+   "exchanges_before": 14,
+   "exchanges_after": 13,
+   "listings_before": 19,
+   "listings_after": 18,
    "dropped_from": [
     "media.net"
    ],
    "added_to": []
   },
   {
-   "key": "adipolo.com",
-   "name": "Adipolo_Adform",
-   "domain": "adipolo.com",
-   "exchanges_before": 10,
-   "exchanges_after": 11,
-   "listings_before": 12,
-   "listings_after": 13,
-   "dropped_from": [],
-   "added_to": [
-    "inmobi.com"
-   ]
+   "key": "4wmarketplace.com",
+   "name": "4W MARKETPLACE SPA",
+   "domain": "4wmarketplace.com",
+   "exchanges_before": 7,
+   "exchanges_after": 5,
+   "listings_before": 7,
+   "listings_after": 5,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
   },
   {
-   "key": "admysports.com",
-   "name": "ad my sports",
-   "domain": "admysports.com",
+   "key": "aceex.io",
+   "name": "ACEEX SP. Z O.O.",
+   "domain": "aceex.io",
+   "exchanges_before": 12,
+   "exchanges_after": 11,
+   "listings_before": 12,
+   "listings_after": 11,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "ad360.live",
+   "name": "Digital Solution International Company Limited",
+   "domain": "ad360.live",
    "exchanges_before": 3,
    "exchanges_after": 4,
    "listings_before": 3,
    "listings_after": 4,
    "dropped_from": [],
    "added_to": [
-    "ogury.com"
+    "indexexchange.com"
    ]
   },
   {
-   "key": "adnimation.com",
-   "name": "Adnimation",
-   "domain": "adnimation.com",
-   "exchanges_before": 20,
-   "exchanges_after": 21,
-   "listings_before": 34,
-   "listings_after": 35,
+   "key": "adasta.it",
+   "name": "Adasta",
+   "domain": "adasta.it",
+   "exchanges_before": 16,
+   "exchanges_after": 16,
+   "listings_before": 17,
+   "listings_after": 18,
    "dropped_from": [],
-   "added_to": [
-    "triplelift.com"
-   ]
+   "added_to": []
   },
   {
-   "key": "adroot.io",
-   "name": "AdRoot Technologies LLC",
-   "domain": "adroot.io",
+   "key": "adbility-media.com",
+   "name": "Adbility media GmbH",
+   "domain": "adbility-media.com",
    "exchanges_before": 4,
-   "exchanges_after": 3,
+   "exchanges_after": 2,
    "listings_before": 4,
-   "listings_after": 3,
+   "listings_after": 2,
    "dropped_from": [
-    "ogury.com"
+    "appnexus.com",
+    "xandr.com"
    ],
    "added_to": []
   },
   {
-   "key": "adsanddata.be",
-   "name": "Ads & Data NV",
-   "domain": "adsanddata.be",
-   "exchanges_before": 8,
-   "exchanges_after": 8,
-   "listings_before": 9,
-   "listings_after": 10,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "adsbynimbus.com",
-   "name": "Nimbus Advertising Solutions",
-   "domain": "adsbynimbus.com",
-   "exchanges_before": 14,
-   "exchanges_after": 14,
-   "listings_before": 15,
-   "listings_after": 14,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "adsolut.in",
-   "name": "Adsolut",
-   "domain": "adsolut.in",
-   "exchanges_before": 8,
-   "exchanges_after": 7,
-   "listings_before": 9,
-   "listings_after": 8,
+   "key": "adgage.es",
+   "name": "AdGage",
+   "domain": "adgage.es",
+   "exchanges_before": 4,
+   "exchanges_after": 2,
+   "listings_before": 6,
+   "listings_after": 4,
    "dropped_from": [
-    "kargo.com"
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "adhubmedia.com",
+   "name": "AdHub Media S.r.l.",
+   "domain": "adhubmedia.com",
+   "exchanges_before": 1,
+   "exchanges_after": 1,
+   "listings_before": 1,
+   "listings_after": 1,
+   "dropped_from": [
+    "inmobi.com"
+   ],
+   "added_to": [
+    "richaudience.com"
+   ]
+  },
+  {
+   "key": "adhubmedia.it",
+   "name": "AdHub Media S.r.l.",
+   "domain": "adhubmedia.it",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "richaudience.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "admanmedia.com",
+   "name": "Illumin",
+   "domain": "admanmedia.com",
+   "exchanges_before": 20,
+   "exchanges_after": 21,
+   "listings_before": 36,
+   "listings_after": 37,
+   "dropped_from": [],
+   "added_to": [
+    "yieldmo.com"
+   ]
+  },
+  {
+   "key": "adorphic.com",
+   "name": "Adorphic FZ-LLC",
+   "domain": "adorphic.com",
+   "exchanges_before": 11,
+   "exchanges_after": 10,
+   "listings_before": 13,
+   "listings_after": 12,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "adplay.it",
+   "name": "AdPlay Srl",
+   "domain": "adplay.it",
+   "exchanges_before": 14,
+   "exchanges_after": 13,
+   "listings_before": 24,
+   "listings_after": 23,
+   "dropped_from": [
+    "indexexchange.com"
    ],
    "added_to": []
   },
@@ -908,6 +431,198 @@
    "key": "adspin.io",
    "name": "Adspin Technology Solutions Limited",
    "domain": "adspin.io",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "improvedigital.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "adtechlab.eu",
+   "name": "Adtech lab d.o.o.",
+   "domain": "adtechlab.eu",
+   "exchanges_before": 10,
+   "exchanges_after": 9,
+   "listings_before": 10,
+   "listings_after": 9,
+   "dropped_from": [
+    "ogury.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "adverline.com",
+   "name": "Adverline",
+   "domain": "adverline.com",
+   "exchanges_before": 3,
+   "exchanges_after": 2,
+   "listings_before": 21,
+   "listings_after": 20,
+   "dropped_from": [
+    "richaudience.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "adverticum.net",
+   "name": "Adverticum Zrt.",
+   "domain": "adverticum.net",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "adweb.gr",
+   "name": "ADWEB ADVERTISING LTD",
+   "domain": "adweb.gr",
+   "exchanges_before": 12,
+   "exchanges_after": 10,
+   "listings_before": 17,
+   "listings_after": 15,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "adwmg.com",
+   "name": "ADWMG",
+   "domain": "adwmg.com",
+   "exchanges_before": 15,
+   "exchanges_after": 16,
+   "listings_before": 20,
+   "listings_after": 20,
+   "dropped_from": [],
+   "added_to": [
+    "seedtag.com"
+   ]
+  },
+  {
+   "key": "alayans-media.com",
+   "name": "Alayans",
+   "domain": "alayans-media.com",
+   "exchanges_before": 7,
+   "exchanges_after": 7,
+   "listings_before": 12,
+   "listings_after": 13,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "alright.com.br",
+   "name": "Alright Comunicacao e Midia Ltda",
+   "domain": "alright.com.br",
+   "exchanges_before": 10,
+   "exchanges_after": 11,
+   "listings_before": 10,
+   "listings_after": 11,
+   "dropped_from": [],
+   "added_to": [
+    "conversantmedia.com"
+   ]
+  },
+  {
+   "key": "amazon.com",
+   "name": "UAM A9",
+   "domain": "amazon.com",
+   "exchanges_before": 17,
+   "exchanges_after": 16,
+   "listings_before": 32,
+   "listings_after": 31,
+   "dropped_from": [
+    "contextweb.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "amc.com",
+   "name": "AMC Networks",
+   "domain": "amc.com",
+   "exchanges_before": 1,
+   "exchanges_after": 2,
+   "listings_before": 1,
+   "listings_after": 3,
+   "dropped_from": [],
+   "added_to": [
+    "freewheel.tv"
+   ]
+  },
+  {
+   "key": "ampliffy.com",
+   "name": "Armonach Media Partners, Ltd.",
+   "domain": "ampliffy.com",
+   "exchanges_before": 7,
+   "exchanges_after": 6,
+   "listings_before": 7,
+   "listings_after": 6,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "antipodesdigital.com",
+   "name": "Antipodes Digital, S.L.",
+   "domain": "antipodesdigital.com",
+   "exchanges_before": 8,
+   "exchanges_after": 9,
+   "listings_before": 11,
+   "listings_after": 12,
+   "dropped_from": [],
+   "added_to": [
+    "lijit.com"
+   ]
+  },
+  {
+   "key": "anyclip.com",
+   "name": "Anyclip",
+   "domain": "anyclip.com",
+   "exchanges_before": 18,
+   "exchanges_after": 18,
+   "listings_before": 34,
+   "listings_after": 35,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "apester.com",
+   "name": "Apester",
+   "domain": "apester.com",
+   "exchanges_before": 21,
+   "exchanges_after": 22,
+   "listings_before": 44,
+   "listings_after": 45,
+   "dropped_from": [],
+   "added_to": [
+    "nativo.com"
+   ]
+  },
+  {
+   "key": "apkpure.com",
+   "name": "Apkpure",
+   "domain": "apkpure.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "inmobi.com"
+   ]
+  },
+  {
+   "key": "appsheep.ai",
+   "name": "AppSheep Pte Ltd",
+   "domain": "appsheep.ai",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
@@ -918,36 +633,378 @@
    ]
   },
   {
-   "key": "adviddo.com",
-   "name": "Adviddo EOOD",
-   "domain": "adviddo.com",
-   "exchanges_before": 3,
+   "key": "appsheep.io",
+   "name": "HONGKONG APPSHEEP LIMITED",
+   "domain": "appsheep.io",
+   "exchanges_before": 0,
    "exchanges_after": 1,
-   "listings_before": 3,
+   "listings_before": 0,
    "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "improvedigital.com"
+   ]
+  },
+  {
+   "key": "audiomob.com",
+   "name": "Audiomob Ltd",
+   "domain": "audiomob.com",
+   "exchanges_before": 7,
+   "exchanges_after": 5,
+   "listings_before": 7,
+   "listings_after": 5,
    "dropped_from": [
-    "sharethrough.com",
-    "smartadserver.com"
+    "appnexus.com",
+    "xandr.com"
    ],
    "added_to": []
   },
   {
-   "key": "alchemyx.io",
-   "name": "Anphonic FZ LLC",
-   "domain": "alchemyx.io",
-   "exchanges_before": 14,
-   "exchanges_after": 15,
-   "listings_before": 17,
-   "listings_after": 18,
+   "key": "auxoads.com",
+   "name": "CYBER MEDIA SERVICES PTE.LTD",
+   "domain": "auxoads.com",
+   "exchanges_before": 3,
+   "exchanges_after": 5,
+   "listings_before": 4,
+   "listings_after": 6,
    "dropped_from": [],
    "added_to": [
-    "media.net"
+    "sharethrough.com",
+    "smartadserver.com"
    ]
   },
   {
-   "key": "algomedia.tech",
-   "name": "Algo Media Ltd",
-   "domain": "algomedia.tech",
+   "key": "balance-x.com",
+   "name": "Balance",
+   "domain": "balance-x.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "yieldmo.com"
+   ]
+  },
+  {
+   "key": "batanga.com",
+   "name": "Vix (vix.com) / Batanga Media Exchange",
+   "domain": "batanga.com",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "beachfront.com",
+   "name": "Beachfront Media LLC",
+   "domain": "beachfront.com",
+   "exchanges_before": 6,
+   "exchanges_after": 4,
+   "listings_before": 8,
+   "listings_after": 6,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "bidnex.com",
+   "name": "Bidnex",
+   "domain": "bidnex.com",
+   "exchanges_before": 3,
+   "exchanges_after": 2,
+   "listings_before": 3,
+   "listings_after": 2,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "bidscube.com",
+   "name": "BIDSCUBE SP. Z O.O",
+   "domain": "bidscube.com",
+   "exchanges_before": 6,
+   "exchanges_after": 7,
+   "listings_before": 6,
+   "listings_after": 7,
+   "dropped_from": [],
+   "added_to": [
+    "risecodes.com"
+   ]
+  },
+  {
+   "key": "bigo.sg",
+   "name": "Bigo Technology Pte Ltd",
+   "domain": "bigo.sg",
+   "exchanges_before": 14,
+   "exchanges_after": 16,
+   "listings_before": 23,
+   "listings_after": 25,
+   "dropped_from": [],
+   "added_to": [
+    "appnexus.com",
+    "xandr.com"
+   ]
+  },
+  {
+   "key": "bildapp.net",
+   "name": "Bildapp LLC",
+   "domain": "bildapp.net",
+   "exchanges_before": 7,
+   "exchanges_after": 8,
+   "listings_before": 8,
+   "listings_after": 9,
+   "dropped_from": [],
+   "added_to": [
+    "triplelift.com"
+   ]
+  },
+  {
+   "key": "bloxdigital.com",
+   "name": "INN Partners L.C dba Blox Digital",
+   "domain": "bloxdigital.com",
+   "exchanges_before": 7,
+   "exchanges_after": 8,
+   "listings_before": 9,
+   "listings_after": 10,
+   "dropped_from": [],
+   "added_to": [
+    "video.unrulymedia.com"
+   ]
+  },
+  {
+   "key": "blueantmedia.com",
+   "name": "Blue Ant TV US LLC",
+   "domain": "blueantmedia.com",
+   "exchanges_before": 12,
+   "exchanges_after": 11,
+   "listings_before": 17,
+   "listings_after": 16,
+   "dropped_from": [
+    "loopme.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "bluemedia.es",
+   "name": "Alayans Media S.L.",
+   "domain": "bluemedia.es",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "richaudience.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "brealtime.com",
+   "name": "Engine",
+   "domain": "brealtime.com",
+   "exchanges_before": 2,
+   "exchanges_after": 3,
+   "listings_before": 2,
+   "listings_after": 3,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "brightmountainmedia.com",
+   "name": "Bright Mountain Media",
+   "domain": "brightmountainmedia.com",
+   "exchanges_before": 12,
+   "exchanges_after": 11,
+   "listings_before": 21,
+   "listings_after": 20,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "broadsign.com",
+   "name": "Place Exchange",
+   "domain": "broadsign.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "contextweb.com"
+   ]
+  },
+  {
+   "key": "buysellads.com",
+   "name": "Buysellads",
+   "domain": "buysellads.com",
+   "exchanges_before": 17,
+   "exchanges_after": 16,
+   "listings_before": 40,
+   "listings_after": 39,
+   "dropped_from": [
+    "indexexchange.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "cafemedia.com",
+   "name": "CMI Marketing d/b/a Raptive",
+   "domain": "cafemedia.com",
+   "exchanges_before": 32,
+   "exchanges_after": 32,
+   "listings_before": 143,
+   "listings_after": 144,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "camino-labs.com",
+   "name": "Camino Labs",
+   "domain": "camino-labs.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "video.unrulymedia.com"
+   ]
+  },
+  {
+   "key": "carbonatix.com",
+   "name": "Carbonatix LTD",
+   "domain": "carbonatix.com",
+   "exchanges_before": 11,
+   "exchanges_after": 10,
+   "listings_before": 15,
+   "listings_after": 14,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "cas.ai",
+   "name": "Cas.ai",
+   "domain": "cas.ai",
+   "exchanges_before": 5,
+   "exchanges_after": 6,
+   "listings_before": 5,
+   "listings_after": 6,
+   "dropped_from": [],
+   "added_to": [
+    "conversantmedia.com"
+   ]
+  },
+  {
+   "key": "ciaopeople.com",
+   "name": "Ciaopeople",
+   "domain": "ciaopeople.com",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "richaudience.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "ciaopeople.it",
+   "name": "Ciaopeople",
+   "domain": "ciaopeople.it",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "richaudience.com"
+   ]
+  },
+  {
+   "key": "cleanmedia.net",
+   "name": "Clean Media",
+   "domain": "cleanmedia.net",
+   "exchanges_before": 13,
+   "exchanges_after": 14,
+   "listings_before": 25,
+   "listings_after": 26,
+   "dropped_from": [],
+   "added_to": [
+    "nativo.com"
+   ]
+  },
+  {
+   "key": "cofina.pt",
+   "name": "Cofina Media SA",
+   "domain": "cofina.pt",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "communityhired.com",
+   "name": "Fandoom LLC DBA Community HIred",
+   "domain": "communityhired.com",
+   "exchanges_before": 5,
+   "exchanges_after": 7,
+   "listings_before": 5,
+   "listings_after": 7,
+   "dropped_from": [],
+   "added_to": [
+    "appnexus.com",
+    "xandr.com"
+   ]
+  },
+  {
+   "key": "connectedculture.tv",
+   "name": "Connected Culture Group, Inc.",
+   "domain": "connectedculture.tv",
+   "exchanges_before": 3,
+   "exchanges_after": 4,
+   "listings_before": 3,
+   "listings_after": 4,
+   "dropped_from": [],
+   "added_to": [
+    "loopme.com"
+   ]
+  },
+  {
+   "key": "copper6.com",
+   "name": "Copper6 LTD",
+   "domain": "copper6.com",
+   "exchanges_before": 23,
+   "exchanges_after": 22,
+   "listings_before": 30,
+   "listings_after": 28,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "cosmo.co",
+   "name": "Cosmose",
+   "domain": "cosmo.co",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
@@ -958,33 +1015,233 @@
    ]
   },
   {
-   "key": "algorix.co",
-   "name": "ALGORIX TECHNOLOGY PTE LTD",
-   "domain": "algorix.co",
-   "exchanges_before": 21,
-   "exchanges_after": 21,
-   "listings_before": 28,
-   "listings_after": 27,
+   "key": "cpg-digital.com",
+   "name": "CPG Digital GmbH",
+   "domain": "cpg-digital.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "richaudience.com"
+   ]
+  },
+  {
+   "key": "datatailor.co.jp",
+   "name": "Data Tailor INC.",
+   "domain": "datatailor.co.jp",
+   "exchanges_before": 5,
+   "exchanges_after": 3,
+   "listings_before": 5,
+   "listings_after": 3,
+   "dropped_from": [
+    "criteo.com",
+    "themediagrid.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "dsc.live",
+   "name": "Digital Solution International Co., Ltd.",
+   "domain": "dsc.live",
+   "exchanges_before": 2,
+   "exchanges_after": 1,
+   "listings_before": 2,
+   "listings_after": 1,
+   "dropped_from": [
+    "indexexchange.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "e-planning.net",
+   "name": "E Planning",
+   "domain": "e-planning.net",
+   "exchanges_before": 16,
+   "exchanges_after": 16,
+   "listings_before": 21,
+   "listings_after": 20,
    "dropped_from": [],
    "added_to": []
   },
   {
-   "key": "apexflowsdk.com",
-   "name": "L.S. Tzipori Investments Ltd.",
-   "domain": "apexflowsdk.com",
-   "exchanges_before": 9,
-   "exchanges_after": 10,
-   "listings_before": 14,
-   "listings_after": 15,
+   "key": "elementaltv.com",
+   "name": "Elemental TV LLC",
+   "domain": "elementaltv.com",
+   "exchanges_before": 4,
+   "exchanges_after": 3,
+   "listings_before": 4,
+   "listings_after": 3,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "elixirvideo.co",
+   "name": "Elixir Holding Inc",
+   "domain": "elixirvideo.co",
+   "exchanges_before": 6,
+   "exchanges_after": 5,
+   "listings_before": 6,
+   "listings_after": 5,
+   "dropped_from": [
+    "onetag.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "entravision.com",
+   "name": "Entravision",
+   "domain": "entravision.com",
+   "exchanges_before": 5,
+   "exchanges_after": 5,
+   "listings_before": 5,
+   "listings_after": 6,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "fandom.com",
+   "name": "Fandom, Inc.",
+   "domain": "fandom.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
    "dropped_from": [],
    "added_to": [
-    "emxdgt.com"
+    "media.net"
    ]
   },
   {
-   "key": "apptimism.com",
-   "name": "Appveritas LTD",
-   "domain": "apptimism.com",
+   "key": "firstimpression.io",
+   "name": "AppendAd Ltd",
+   "domain": "firstimpression.io",
+   "exchanges_before": 7,
+   "exchanges_after": 6,
+   "listings_before": 19,
+   "listings_after": 7,
+   "dropped_from": [
+    "openx.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "futureplc.com",
+   "name": "Future PLC",
+   "domain": "futureplc.com",
+   "exchanges_before": 23,
+   "exchanges_after": 23,
+   "listings_before": 40,
+   "listings_after": 37,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "geniee.co.jp",
+   "name": "Geniee International Pte. Ltd.",
+   "domain": "geniee.co.jp",
+   "exchanges_before": 1,
+   "exchanges_after": 1,
+   "listings_before": 2,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "genieesspv.jp",
+   "name": "Geniee, Inc.",
+   "domain": "genieesspv.jp",
+   "exchanges_before": 16,
+   "exchanges_after": 17,
+   "listings_before": 31,
+   "listings_after": 32,
+   "dropped_from": [],
+   "added_to": [
+    "richaudience.com"
+   ]
+  },
+  {
+   "key": "getmediamx.com",
+   "name": "GetMediaMx LLC",
+   "domain": "getmediamx.com",
+   "exchanges_before": 7,
+   "exchanges_after": 5,
+   "listings_before": 7,
+   "listings_after": 5,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "go.saambaa.com",
+   "name": "saambaa LLC",
+   "domain": "go.saambaa.com",
+   "exchanges_before": 3,
+   "exchanges_after": 2,
+   "listings_before": 3,
+   "listings_after": 2,
+   "dropped_from": [
+    "undertone.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "google.com",
+   "name": "Google AdExchange",
+   "domain": "google.com",
+   "exchanges_before": 26,
+   "exchanges_after": 26,
+   "listings_before": 20008,
+   "listings_after": 20031,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "gravite.net",
+   "name": "AddApptr GmbH",
+   "domain": "gravite.net",
+   "exchanges_before": 10,
+   "exchanges_after": 9,
+   "listings_before": 14,
+   "listings_after": 13,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "groupm.com",
+   "name": "GroupM NL - 876",
+   "domain": "groupm.com",
+   "exchanges_before": 4,
+   "exchanges_after": 4,
+   "listings_before": 61,
+   "listings_after": 37,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "hbagency.it",
+   "name": "Hb Agency",
+   "domain": "hbagency.it",
+   "exchanges_before": 16,
+   "exchanges_after": 17,
+   "listings_before": 18,
+   "listings_after": 19,
+   "dropped_from": [],
+   "added_to": [
+    "ogury.com"
+   ]
+  },
+  {
+   "key": "hearst.com",
+   "name": "Hearst Production",
+   "domain": "hearst.com",
    "exchanges_before": 3,
    "exchanges_after": 2,
    "listings_before": 3,
@@ -995,159 +1252,115 @@
    "added_to": []
   },
   {
-   "key": "aps.amazon.com",
-   "name": "Amazon",
-   "domain": "aps.amazon.com",
-   "exchanges_before": 13,
-   "exchanges_after": 12,
-   "listings_before": 25,
-   "listings_after": 17,
+   "key": "houseofpubs.com",
+   "name": "House Of Pubs",
+   "domain": "houseofpubs.com",
+   "exchanges_before": 10,
+   "exchanges_after": 8,
+   "listings_before": 13,
+   "listings_after": 11,
    "dropped_from": [
-    "improvedigital.com"
+    "appnexus.com",
+    "xandr.com"
    ],
    "added_to": []
   },
   {
-   "key": "axiommedia.co",
-   "name": "AxiomMediaLtd",
-   "domain": "axiommedia.co",
-   "exchanges_before": 4,
-   "exchanges_after": 4,
-   "listings_before": 11,
-   "listings_after": 12,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "bematterfull.com",
-   "name": "Matterfull Inc",
-   "domain": "bematterfull.com",
-   "exchanges_before": 5,
-   "exchanges_after": 4,
-   "listings_before": 5,
-   "listings_after": 4,
+   "key": "iheartmedia.com",
+   "name": "iHeartMedia Management Services, Inc",
+   "domain": "iheartmedia.com",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
    "dropped_from": [
-    "loopme.com"
+    "appnexus.com",
+    "xandr.com"
    ],
    "added_to": []
   },
   {
-   "key": "bid-matrix.com",
-   "name": "Byte Cyber Limited",
-   "domain": "bid-matrix.com",
+   "key": "iion.io",
+   "name": "iion Pty Ltd",
+   "domain": "iion.io",
+   "exchanges_before": 21,
+   "exchanges_after": 20,
+   "listings_before": 34,
+   "listings_after": 31,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "illumin.com",
+   "name": "140 Proof Inc (illumin Holdings)",
+   "domain": "illumin.com",
    "exchanges_before": 3,
    "exchanges_after": 2,
    "listings_before": 3,
    "listings_after": 2,
    "dropped_from": [
-    "richaudience.com"
+    "yieldmo.com"
    ],
    "added_to": []
   },
   {
-   "key": "bid8.com",
-   "name": "Bid8",
-   "domain": "bid8.com",
+   "key": "iminent.com",
+   "name": "Sien SA",
+   "domain": "iminent.com",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
    "listings_after": 1,
    "dropped_from": [],
    "added_to": [
-    "triplelift.com"
+    "rubiconproject.com"
    ]
   },
   {
-   "key": "bidfuse.com",
-   "name": "Trendesk.tv LLC - Bidfuse",
-   "domain": "bidfuse.com",
-   "exchanges_before": 5,
-   "exchanges_after": 4,
-   "listings_before": 5,
-   "listings_after": 4,
-   "dropped_from": [
-    "video.unrulymedia.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "bidgx.com",
-   "name": "Bidgency Group",
-   "domain": "bidgx.com",
-   "exchanges_before": 9,
-   "exchanges_after": 8,
-   "listings_before": 9,
-   "listings_after": 8,
-   "dropped_from": [
-    "rubiconproject.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "bluefocus.com",
-   "name": "BluefocusRTBD",
-   "domain": "bluefocus.com",
-   "exchanges_before": 1,
-   "exchanges_after": 2,
-   "listings_before": 1,
-   "listings_after": 2,
+   "key": "inquirer.net",
+   "name": "Inquirer (iVS)",
+   "domain": "inquirer.net",
+   "exchanges_before": 2,
+   "exchanges_after": 3,
+   "listings_before": 2,
+   "listings_after": 3,
    "dropped_from": [],
    "added_to": [
-    "triplelift.com"
+    "onetag.com"
    ]
   },
   {
-   "key": "browsi.com",
-   "name": "Brow.si Mobile, ltd.",
-   "domain": "browsi.com",
-   "exchanges_before": 5,
-   "exchanges_after": 4,
-   "listings_before": 5,
-   "listings_after": 4,
+   "key": "internetbrands.com",
+   "name": "Internet Brands",
+   "domain": "internetbrands.com",
+   "exchanges_before": 3,
+   "exchanges_after": 2,
+   "listings_before": 6,
+   "listings_after": 5,
    "dropped_from": [
-    "video.unrulymedia.com"
+    "kargo.com"
    ],
    "added_to": []
   },
   {
-   "key": "cafemedia.com",
-   "name": "CMI Marketing d/b/a Raptive",
-   "domain": "cafemedia.com",
-   "exchanges_before": 31,
-   "exchanges_after": 31,
-   "listings_before": 131,
-   "listings_after": 133,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "cars.com",
-   "name": "Cars.com",
-   "domain": "cars.com",
-   "exchanges_before": 1,
-   "exchanges_after": 0,
-   "listings_before": 1,
-   "listings_after": 0,
+   "key": "joinantipodes.com",
+   "name": "Antipodes",
+   "domain": "joinantipodes.com",
+   "exchanges_before": 2,
+   "exchanges_after": 1,
+   "listings_before": 3,
+   "listings_after": 2,
    "dropped_from": [
-    "emxdgt.com"
+    "lijit.com"
    ],
    "added_to": []
   },
   {
-   "key": "citrusad.com",
-   "name": "Citrus Ad",
-   "domain": "citrusad.com",
-   "exchanges_before": 6,
-   "exchanges_after": 6,
-   "listings_before": 8,
-   "listings_after": 7,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "cmconline.cz",
-   "name": "CMC Online s.r.o.",
-   "domain": "cmconline.cz",
+   "key": "justbaat.com",
+   "name": "Justbaat Mediatech Private Limited",
+   "domain": "justbaat.com",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
@@ -1158,895 +1371,51 @@
    ]
   },
   {
-   "key": "config.playwire.com",
-   "name": "Playwire",
-   "domain": "config.playwire.com",
-   "exchanges_before": 2,
-   "exchanges_after": 0,
-   "listings_before": 2,
-   "listings_after": 0,
-   "dropped_from": [
-    "sharethrough.com",
-    "smartadserver.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "consumable.com",
-   "name": "Consumable",
-   "domain": "consumable.com",
-   "exchanges_before": 16,
-   "exchanges_after": 15,
-   "listings_before": 28,
-   "listings_after": 27,
-   "dropped_from": [
-    "indexexchange.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "copper6.com",
-   "name": "Copper6 LTD",
-   "domain": "copper6.com",
-   "exchanges_before": 20,
-   "exchanges_after": 22,
-   "listings_before": 26,
-   "listings_after": 28,
-   "dropped_from": [],
-   "added_to": [
-    "criteo.com",
-    "themediagrid.com"
-   ]
-  },
-  {
-   "key": "cosmo.co",
-   "name": "Cosmose",
-   "domain": "cosmo.co",
-   "exchanges_before": 1,
-   "exchanges_after": 0,
-   "listings_before": 1,
-   "listings_after": 0,
-   "dropped_from": [
-    "ogury.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "cpex.cz",
-   "name": "CPEX",
-   "domain": "cpex.cz",
-   "exchanges_before": 9,
-   "exchanges_after": 9,
-   "listings_before": 16,
-   "listings_after": 15,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "d-sail.com",
-   "name": "Digital Sail Cyprus LTD",
-   "domain": "d-sail.com",
-   "exchanges_before": 8,
-   "exchanges_after": 7,
-   "listings_before": 9,
-   "listings_after": 8,
-   "dropped_from": [
-    "richaudience.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "dexerto.com",
-   "name": "Dexerto",
-   "domain": "dexerto.com",
-   "exchanges_before": 9,
-   "exchanges_after": 8,
-   "listings_before": 9,
-   "listings_after": 8,
-   "dropped_from": [
-    "smaato.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "e-radio.gr",
-   "name": "Nextweb",
-   "domain": "e-radio.gr",
-   "exchanges_before": 0,
-   "exchanges_after": 1,
-   "listings_before": 0,
-   "listings_after": 1,
-   "dropped_from": [],
-   "added_to": [
-    "onetag.com"
-   ]
-  },
-  {
-   "key": "ehealthcaresolutions.com",
-   "name": "e-Healthcare Solutions LLC",
-   "domain": "ehealthcaresolutions.com",
-   "exchanges_before": 4,
-   "exchanges_after": 3,
-   "listings_before": 5,
-   "listings_after": 3,
-   "dropped_from": [
-    "media.net"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "fireflyengagement.com",
-   "name": "Firefly Engagement",
-   "domain": "fireflyengagement.com",
-   "exchanges_before": 2,
-   "exchanges_after": 1,
-   "listings_before": 2,
-   "listings_after": 1,
-   "dropped_from": [
-    "media.net"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "firstimpression.io",
-   "name": "AppendAd Ltd",
-   "domain": "firstimpression.io",
-   "exchanges_before": 8,
-   "exchanges_after": 7,
-   "listings_before": 20,
-   "listings_after": 19,
-   "dropped_from": [
-    "rubiconproject.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "flashb.id",
-   "name": "Meetscale",
-   "domain": "flashb.id",
-   "exchanges_before": 19,
-   "exchanges_after": 19,
-   "listings_before": 31,
-   "listings_after": 32,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "flower-ads.com",
-   "name": "Flower Ads",
-   "domain": "flower-ads.com",
+   "key": "k-words.io",
+   "name": "K-words SAS",
+   "domain": "k-words.io",
    "exchanges_before": 12,
    "exchanges_after": 11,
-   "listings_before": 18,
-   "listings_after": 18,
-   "dropped_from": [
-    "onetag.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "freestar.com",
-   "name": "freestar",
-   "domain": "freestar.com",
-   "exchanges_before": 28,
-   "exchanges_after": 28,
-   "listings_before": 341,
-   "listings_after": 343,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "galaxiemedia.fr",
-   "name": "Galaxie Media",
-   "domain": "galaxiemedia.fr",
-   "exchanges_before": 8,
-   "exchanges_after": 7,
-   "listings_before": 9,
-   "listings_after": 8,
-   "dropped_from": [
-    "indexexchange.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "goodrunmedia.com",
-   "name": "Good Run Media",
-   "domain": "goodrunmedia.com",
-   "exchanges_before": 7,
-   "exchanges_after": 8,
-   "listings_before": 7,
-   "listings_after": 8,
-   "dropped_from": [],
-   "added_to": [
-    "lijit.com"
-   ]
-  },
-  {
-   "key": "google.com",
-   "name": "Google AdExchange",
-   "domain": "google.com",
-   "exchanges_before": 23,
-   "exchanges_after": 24,
-   "listings_before": 19940,
-   "listings_after": 19873,
-   "dropped_from": [],
-   "added_to": [
-    "emxdgt.com"
-   ]
-  },
-  {
-   "key": "hashtag-labs.com",
-   "name": "Hashtag Labs",
-   "domain": "hashtag-labs.com",
-   "exchanges_before": 17,
-   "exchanges_after": 19,
-   "listings_before": 34,
-   "listings_after": 36,
-   "dropped_from": [],
-   "added_to": [
-    "criteo.com",
-    "themediagrid.com"
-   ]
-  },
-  {
-   "key": "hbagency.it",
-   "name": "ICardoo Digital Marketing Srl",
-   "domain": "hbagency.it",
-   "exchanges_before": 18,
-   "exchanges_after": 17,
-   "listings_before": 20,
-   "listings_after": 19,
-   "dropped_from": [
-    "ogury.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "hearst.com",
-   "name": "Hearst Production",
-   "domain": "hearst.com",
-   "exchanges_before": 2,
-   "exchanges_after": 3,
-   "listings_before": 2,
-   "listings_after": 3,
-   "dropped_from": [],
-   "added_to": [
-    "media.net"
-   ]
-  },
-  {
-   "key": "hopprtv.com",
-   "name": "Hoppr - StarHub",
-   "domain": "hopprtv.com",
-   "exchanges_before": 3,
-   "exchanges_after": 4,
-   "listings_before": 3,
-   "listings_after": 4,
-   "dropped_from": [],
-   "added_to": [
-    "kargo.com"
-   ]
-  },
-  {
-   "key": "influent-media.com",
-   "name": "Influent Media",
-   "domain": "influent-media.com",
-   "exchanges_before": 7,
-   "exchanges_after": 8,
-   "listings_before": 8,
-   "listings_after": 9,
-   "dropped_from": [],
-   "added_to": [
-    "ogury.com"
-   ]
-  },
-  {
-   "key": "interplaymedia.com.au",
-   "name": "Interplay Media Pty Ltd",
-   "domain": "interplaymedia.com.au",
-   "exchanges_before": 15,
-   "exchanges_after": 16,
-   "listings_before": 21,
-   "listings_after": 22,
-   "dropped_from": [],
-   "added_to": [
-    "rubiconproject.com"
-   ]
-  },
-  {
-   "key": "kuantyx.com",
-   "name": "KUANTYX MEDIA LIMITED",
-   "domain": "kuantyx.com",
-   "exchanges_before": 2,
-   "exchanges_after": 1,
-   "listings_before": 2,
-   "listings_after": 1,
-   "dropped_from": [
-    "rubiconproject.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "kueez.com",
-   "name": "Kueez Entertainment LTD",
-   "domain": "kueez.com",
-   "exchanges_before": 18,
-   "exchanges_after": 18,
-   "listings_before": 71,
-   "listings_after": 69,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "lacunads.com",
-   "name": "INFINITE STATE PTE. LTD.",
-   "domain": "lacunads.com",
-   "exchanges_before": 3,
-   "exchanges_after": 4,
-   "listings_before": 3,
-   "listings_after": 4,
-   "dropped_from": [],
-   "added_to": [
-    "triplelift.com"
-   ]
-  },
-  {
-   "key": "lanistaconcepts.com",
-   "name": "Lanista Concepts, LLC",
-   "domain": "lanistaconcepts.com",
-   "exchanges_before": 2,
-   "exchanges_after": 3,
-   "listings_before": 2,
-   "listings_after": 3,
-   "dropped_from": [],
-   "added_to": [
-    "rubiconproject.com"
-   ]
-  },
-  {
-   "key": "liftoff.ai",
-   "name": "Liftoff",
-   "domain": "liftoff.ai",
-   "exchanges_before": 0,
-   "exchanges_after": 2,
-   "listings_before": 0,
-   "listings_after": 2,
-   "dropped_from": [],
-   "added_to": [
-    "improvedigital.com",
-    "kargo.com"
-   ]
-  },
-  {
-   "key": "loladigitalmedia.com",
-   "name": "Lola Digital Media LLC",
-   "domain": "loladigitalmedia.com",
-   "exchanges_before": 1,
-   "exchanges_after": 0,
-   "listings_before": 1,
-   "listings_after": 0,
-   "dropped_from": [
-    "rubiconproject.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "mars-technologies.com",
-   "name": "Mars Media Group",
-   "domain": "mars-technologies.com",
-   "exchanges_before": 2,
-   "exchanges_after": 0,
-   "listings_before": 2,
-   "listings_after": 0,
-   "dropped_from": [
-    "sharethrough.com",
-    "smartadserver.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "mars.media",
-   "name": "Mars Media Group",
-   "domain": "mars.media",
-   "exchanges_before": 8,
-   "exchanges_after": 8,
-   "listings_before": 25,
-   "listings_after": 27,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "meazy.tech",
-   "name": "UAB Meazy",
-   "domain": "meazy.tech",
-   "exchanges_before": 1,
-   "exchanges_after": 2,
-   "listings_before": 1,
-   "listings_after": 2,
-   "dropped_from": [],
-   "added_to": [
-    "loopme.com"
-   ]
-  },
-  {
-   "key": "mediamond.it",
-   "name": "Mediamond S.p.A.",
-   "domain": "mediamond.it",
-   "exchanges_before": 6,
-   "exchanges_after": 5,
-   "listings_before": 8,
-   "listings_after": 7,
-   "dropped_from": [
-    "ogury.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "mediaverse.ai",
-   "name": "MediaVerse.ai ltd",
-   "domain": "mediaverse.ai",
-   "exchanges_before": 13,
-   "exchanges_after": 12,
-   "listings_before": 16,
-   "listings_after": 15,
-   "dropped_from": [
-    "rubiconproject.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "mediavine.com",
-   "name": "Mediavine",
-   "domain": "mediavine.com",
-   "exchanges_before": 31,
-   "exchanges_after": 31,
-   "listings_before": 61,
-   "listings_after": 62,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "metaxsoft.com",
-   "name": "METAX SOFTWARE PTE. LTD.",
-   "domain": "metaxsoft.com",
-   "exchanges_before": 10,
-   "exchanges_after": 10,
-   "listings_before": 18,
-   "listings_after": 19,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "midcosports.com",
-   "name": "Midco Sports",
-   "domain": "midcosports.com",
-   "exchanges_before": 1,
-   "exchanges_after": 0,
-   "listings_before": 1,
-   "listings_after": 0,
-   "dropped_from": [
-    "emxdgt.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "minutemedia.com",
-   "name": "Minute Media Ron",
-   "domain": "minutemedia.com",
-   "exchanges_before": 22,
-   "exchanges_after": 22,
-   "listings_before": 39,
-   "listings_after": 38,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "mngmnt.de",
-   "name": "DA Media Management",
-   "domain": "mngmnt.de",
-   "exchanges_before": 3,
-   "exchanges_after": 2,
-   "listings_before": 3,
-   "listings_after": 2,
-   "dropped_from": [
-    "onetag.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "modernluxurymedia.com",
-   "name": "Modern Luxury",
-   "domain": "modernluxurymedia.com",
-   "exchanges_before": 2,
-   "exchanges_after": 1,
-   "listings_before": 2,
-   "listings_after": 1,
-   "dropped_from": [
-    "media.net"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "monumetric.com",
-   "name": "Monumetric",
-   "domain": "monumetric.com",
-   "exchanges_before": 20,
-   "exchanges_after": 19,
-   "listings_before": 44,
-   "listings_after": 43,
-   "dropped_from": [
-    "indexexchange.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "multimericamedia.com",
-   "name": "Multimerica AdEX, LLC",
-   "domain": "multimericamedia.com",
-   "exchanges_before": 4,
-   "exchanges_after": 3,
-   "listings_before": 5,
-   "listings_after": 4,
-   "dropped_from": [
-    "loopme.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "myfeature.tv",
-   "name": "MyFeature Inc",
-   "domain": "myfeature.tv",
-   "exchanges_before": 8,
-   "exchanges_after": 7,
-   "listings_before": 8,
-   "listings_after": 7,
-   "dropped_from": [
-    "video.unrulymedia.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "name:loopmevgictv",
-   "name": "loopmevgictv",
-   "domain": "",
-   "exchanges_before": 0,
-   "exchanges_after": 1,
-   "listings_before": 0,
-   "listings_after": 1,
-   "dropped_from": [],
-   "added_to": [
-    "smaato.com"
-   ]
-  },
-  {
-   "key": "next14.com",
-   "name": "Next Media S.r.l",
-   "domain": "next14.com",
-   "exchanges_before": 13,
-   "exchanges_after": 12,
-   "listings_before": 19,
-   "listings_after": 18,
-   "dropped_from": [
-    "indexexchange.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "nexverse.ai",
-   "name": "Verse",
-   "domain": "nexverse.ai",
-   "exchanges_before": 10,
-   "exchanges_after": 9,
-   "listings_before": 10,
-   "listings_after": 9,
-   "dropped_from": [
-    "onetag.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "nitropay.com",
-   "name": "Nitro",
-   "domain": "nitropay.com",
-   "exchanges_before": 21,
-   "exchanges_after": 22,
-   "listings_before": 29,
-   "listings_after": 32,
-   "dropped_from": [],
-   "added_to": [
-    "gumgum.com"
-   ]
-  },
-  {
-   "key": "omnifytv.com",
-   "name": "OmnifyTV",
-   "domain": "omnifytv.com",
-   "exchanges_before": 2,
-   "exchanges_after": 2,
-   "listings_before": 3,
-   "listings_after": 2,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "optidigital.com",
-   "name": "Opti Digital",
-   "domain": "optidigital.com",
-   "exchanges_before": 16,
-   "exchanges_after": 17,
-   "listings_before": 18,
-   "listings_after": 19,
-   "dropped_from": [],
-   "added_to": [
-    "smartadserver.com"
-   ]
-  },
-  {
-   "key": "optidigital.fr",
-   "name": "Opti Digital SAS",
-   "domain": "optidigital.fr",
-   "exchanges_before": 6,
-   "exchanges_after": 5,
-   "listings_before": 11,
-   "listings_after": 10,
-   "dropped_from": [
-    "smartadserver.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "osmos.ai",
-   "name": "Osmos",
-   "domain": "osmos.ai",
-   "exchanges_before": 0,
-   "exchanges_after": 2,
-   "listings_before": 0,
-   "listings_after": 2,
-   "dropped_from": [],
-   "added_to": [
-    "improvedigital.com",
-    "rubiconproject.com"
-   ]
-  },
-  {
-   "key": "ozoneproject.com",
-   "name": "ozone",
-   "domain": "ozoneproject.com",
-   "exchanges_before": 5,
-   "exchanges_after": 4,
-   "listings_before": 5,
-   "listings_after": 4,
-   "dropped_from": [
-    "inmobi.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "paxamedia.com",
-   "name": "Paxa Media Holdings LLC",
-   "domain": "paxamedia.com",
-   "exchanges_before": 4,
-   "exchanges_after": 4,
-   "listings_before": 5,
-   "listings_after": 4,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "pgammedia.com",
-   "name": "PGAM Media",
-   "domain": "pgammedia.com",
-   "exchanges_before": 11,
-   "exchanges_after": 10,
-   "listings_before": 13,
-   "listings_after": 12,
-   "dropped_from": [
-    "loopme.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "pixfuture.com",
-   "name": "PixFuture Media Inc.",
-   "domain": "pixfuture.com",
-   "exchanges_before": 7,
-   "exchanges_after": 9,
    "listings_before": 12,
-   "listings_after": 14,
-   "dropped_from": [],
-   "added_to": [
-    "criteo.com",
-    "themediagrid.com"
-   ]
-  },
-  {
-   "key": "playbuzz.com",
-   "name": "Ex.co",
-   "domain": "playbuzz.com",
-   "exchanges_before": 18,
-   "exchanges_after": 19,
-   "listings_before": 29,
-   "listings_after": 30,
-   "dropped_from": [],
-   "added_to": [
-    "inmobi.com"
-   ]
-  },
-  {
-   "key": "playgama.com",
-   "name": "Playgama",
-   "domain": "playgama.com",
-   "exchanges_before": 2,
-   "exchanges_after": 3,
-   "listings_before": 2,
-   "listings_after": 3,
-   "dropped_from": [],
-   "added_to": [
-    "video.unrulymedia.com"
-   ]
-  },
-  {
-   "key": "playstream.media",
-   "name": "ADSOLUT TECHNOLOGY SERVICES",
-   "domain": "playstream.media",
-   "exchanges_before": 13,
-   "exchanges_after": 14,
-   "listings_before": 22,
-   "listings_after": 23,
-   "dropped_from": [],
-   "added_to": [
-    "kargo.com"
-   ]
-  },
-  {
-   "key": "playwire.com",
-   "name": "Playwire LLC",
-   "domain": "playwire.com",
-   "exchanges_before": 27,
-   "exchanges_after": 27,
-   "listings_before": 58,
-   "listings_after": 60,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "plexpeer.com",
-   "name": "Adtraction Limited",
-   "domain": "plexpeer.com",
-   "exchanges_before": 3,
-   "exchanges_after": 1,
-   "listings_before": 3,
-   "listings_after": 1,
+   "listings_after": 11,
    "dropped_from": [
-    "sharethrough.com",
-    "smartadserver.com"
+    "media.net"
    ],
    "added_to": []
   },
   {
-   "key": "populis.com",
-   "name": "Audio Ad Brasil Distribuicao e Veiculacao de Midia Ltda",
-   "domain": "populis.com",
+   "key": "kineton.it",
+   "name": "Kineton s.r.l",
+   "domain": "kineton.it",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "freewheel.tv"
+   ]
+  },
+  {
+   "key": "kleinanzeigen.de",
+   "name": "Kleinanzeigen",
+   "domain": "kleinanzeigen.de",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
    "listings_after": 1,
    "dropped_from": [],
    "added_to": [
-    "rubiconproject.com"
-   ]
-  },
-  {
-   "key": "proper.io",
-   "name": "Proper Media",
-   "domain": "proper.io",
-   "exchanges_before": 16,
-   "exchanges_after": 16,
-   "listings_before": 36,
-   "listings_after": 35,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "pubeasy.io",
-   "name": "Pubeasy, Inc.",
-   "domain": "pubeasy.io",
-   "exchanges_before": 8,
-   "exchanges_after": 11,
-   "listings_before": 8,
-   "listings_after": 11,
-   "dropped_from": [],
-   "added_to": [
-    "criteo.com",
-    "richaudience.com",
-    "themediagrid.com"
-   ]
-  },
-  {
-   "key": "publisherdesk.com",
-   "name": "PublisherDesk",
-   "domain": "publisherdesk.com",
-   "exchanges_before": 24,
-   "exchanges_after": 24,
-   "listings_before": 40,
-   "listings_after": 38,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "pubmax.com",
-   "name": "Pubmax",
-   "domain": "pubmax.com",
-   "exchanges_before": 14,
-   "exchanges_after": 15,
-   "listings_before": 15,
-   "listings_after": 16,
-   "dropped_from": [],
-   "added_to": [
-    "triplelift.com"
-   ]
-  },
-  {
-   "key": "rev.iq",
-   "name": "RevIQ Inc.",
-   "domain": "rev.iq",
-   "exchanges_before": 14,
-   "exchanges_after": 15,
-   "listings_before": 15,
-   "listings_after": 16,
-   "dropped_from": [],
-   "added_to": [
-    "richaudience.com"
-   ]
-  },
-  {
-   "key": "revealon.media",
-   "name": "Revealon Media LTD",
-   "domain": "revealon.media",
-   "exchanges_before": 5,
-   "exchanges_after": 5,
-   "listings_before": 6,
-   "listings_after": 5,
-   "dropped_from": [
     "media.net"
-   ],
-   "added_to": [
-    "improvedigital.com"
    ]
   },
   {
-   "key": "reviq.app",
-   "name": "RevIQ",
-   "domain": "reviq.app",
-   "exchanges_before": 1,
-   "exchanges_after": 0,
-   "listings_before": 1,
-   "listings_after": 0,
-   "dropped_from": [
-    "richaudience.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "rhebus.works",
-   "name": "Rhebus",
-   "domain": "rhebus.works",
-   "exchanges_before": 8,
-   "exchanges_after": 7,
-   "listings_before": 15,
-   "listings_after": 14,
-   "dropped_from": [
-    "rubiconproject.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "ringier.rs",
-   "name": "Ringier Serbia d.o.o",
-   "domain": "ringier.rs",
+   "key": "krak.dk",
+   "name": "Eniro Danmark A/S",
+   "domain": "krak.dk",
    "exchanges_before": 7,
    "exchanges_after": 6,
-   "listings_before": 7,
+   "listings_before": 8,
    "listings_after": 6,
    "dropped_from": [
     "indexexchange.com"
@@ -2054,198 +1423,88 @@
    "added_to": []
   },
   {
-   "key": "rocking.gr",
-   "name": "Rocking.gr",
-   "domain": "rocking.gr",
+   "key": "krushmedia.com",
+   "name": "Krush Media LLC",
+   "domain": "krushmedia.com",
+   "exchanges_before": 13,
+   "exchanges_after": 12,
+   "listings_before": 19,
+   "listings_after": 17,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "ladbiblegroup.com",
+   "name": "Whenever Media Limited",
+   "domain": "ladbiblegroup.com",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
    "listings_after": 1,
    "dropped_from": [],
    "added_to": [
-    "onetag.com"
-   ]
-  },
-  {
-   "key": "rogersmedia.com",
-   "name": "Rogers Media",
-   "domain": "rogersmedia.com",
-   "exchanges_before": 1,
-   "exchanges_after": 1,
-   "listings_before": 4,
-   "listings_after": 5,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "rtbone.com",
-   "name": "RTB One OOD",
-   "domain": "rtbone.com",
-   "exchanges_before": 3,
-   "exchanges_after": 2,
-   "listings_before": 3,
-   "listings_after": 2,
-   "dropped_from": [
     "richaudience.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "rtk.io",
-   "name": "RTK.io",
-   "domain": "rtk.io",
-   "exchanges_before": 4,
-   "exchanges_after": 3,
-   "listings_before": 5,
-   "listings_after": 4,
-   "dropped_from": [
-    "video.unrulymedia.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "s3media.co.jp",
-   "name": "S3 Inclusive",
-   "domain": "s3media.co.jp",
-   "exchanges_before": 4,
-   "exchanges_after": 3,
-   "listings_before": 5,
-   "listings_after": 4,
-   "dropped_from": [
-    "onetag.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "showheroes.com",
-   "name": "ShowHeroes SE",
-   "domain": "showheroes.com",
-   "exchanges_before": 17,
-   "exchanges_after": 18,
-   "listings_before": 53,
-   "listings_after": 54,
-   "dropped_from": [],
-   "added_to": [
-    "loopme.com"
    ]
   },
   {
-   "key": "sky.it",
-   "name": "Digital Exchange S.r.l",
-   "domain": "sky.it",
-   "exchanges_before": 3,
-   "exchanges_after": 2,
-   "listings_before": 5,
-   "listings_after": 4,
-   "dropped_from": [
-    "ogury.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "smilewanted.com",
-   "name": "Smile Wanted Group",
-   "domain": "smilewanted.com",
-   "exchanges_before": 19,
-   "exchanges_after": 20,
-   "listings_before": 29,
-   "listings_after": 30,
-   "dropped_from": [],
-   "added_to": [
-    "triplelift.com"
-   ]
-  },
-  {
-   "key": "spinx.biz",
-   "name": "SPINX PTE LTD",
-   "domain": "spinx.biz",
+   "key": "latinon.com",
+   "name": "Latinon Inc.",
+   "domain": "latinon.com",
    "exchanges_before": 11,
-   "exchanges_after": 12,
-   "listings_before": 11,
-   "listings_after": 12,
-   "dropped_from": [],
-   "added_to": [
-    "richaudience.com"
-   ]
-  },
-  {
-   "key": "spinx.io",
-   "name": "SpinX PTE LTD",
-   "domain": "spinx.io",
-   "exchanges_before": 1,
-   "exchanges_after": 0,
-   "listings_before": 1,
-   "listings_after": 0,
+   "exchanges_after": 9,
+   "listings_before": 12,
+   "listings_after": 10,
    "dropped_from": [
-    "richaudience.com"
+    "appnexus.com",
+    "xandr.com"
    ],
    "added_to": []
   },
   {
-   "key": "streamix-tv.com",
-   "name": "Streamix",
-   "domain": "streamix-tv.com",
-   "exchanges_before": 3,
-   "exchanges_after": 2,
-   "listings_before": 3,
-   "listings_after": 2,
-   "dropped_from": [
-    "loopme.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "synacor.com",
-   "name": "Synacor",
-   "domain": "synacor.com",
-   "exchanges_before": 1,
-   "exchanges_after": 1,
-   "listings_before": 1,
-   "listings_after": 2,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "tappx.com",
-   "name": "Tappacelerator Media SL",
-   "domain": "tappx.com",
-   "exchanges_before": 19,
-   "exchanges_after": 19,
-   "listings_before": 39,
-   "listings_after": 40,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "teqfire.com",
-   "name": "Teqfire",
-   "domain": "teqfire.com",
+   "key": "league-m.com",
+   "name": "League-M Europe GmbH",
+   "domain": "league-m.com",
    "exchanges_before": 2,
    "exchanges_after": 1,
    "listings_before": 2,
    "listings_after": 1,
    "dropped_from": [
-    "loopme.com"
+    "richaudience.com"
    ],
    "added_to": []
   },
   {
-   "key": "testseite.de",
-   "name": "DRA Derya Aksu",
-   "domain": "testseite.de",
-   "exchanges_before": 0,
-   "exchanges_after": 1,
-   "listings_before": 0,
-   "listings_after": 1,
+   "key": "league-m.de",
+   "name": "League-M Europe GmbH",
+   "domain": "league-m.de",
+   "exchanges_before": 1,
+   "exchanges_after": 2,
+   "listings_before": 1,
+   "listings_after": 2,
    "dropped_from": [],
    "added_to": [
-    "ogury.com"
+    "richaudience.com"
    ]
   },
   {
-   "key": "tgisport.com",
-   "name": "TGI Sport",
-   "domain": "tgisport.com",
+   "key": "leanback.digital",
+   "name": "Leanback Digital",
+   "domain": "leanback.digital",
+   "exchanges_before": 5,
+   "exchanges_after": 6,
+   "listings_before": 7,
+   "listings_after": 8,
+   "dropped_from": [],
+   "added_to": [
+    "richaudience.com"
+   ]
+  },
+  {
+   "key": "leiji.ai",
+   "name": "Leiji",
+   "domain": "leiji.ai",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
@@ -2256,157 +1515,319 @@
    ]
   },
   {
-   "key": "toponad.com",
-   "name": "TOPON PTE LTD",
-   "domain": "toponad.com",
-   "exchanges_before": 8,
-   "exchanges_after": 8,
-   "listings_before": 11,
-   "listings_after": 10,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "townsquaremedia.com",
-   "name": "Townsquare Media - Reseller",
-   "domain": "townsquaremedia.com",
-   "exchanges_before": 4,
-   "exchanges_after": 3,
-   "listings_before": 6,
-   "listings_after": 5,
-   "dropped_from": [
-    "emxdgt.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "tredio.io",
-   "name": "Tredio",
-   "domain": "tredio.io",
-   "exchanges_before": 10,
-   "exchanges_after": 9,
-   "listings_before": 15,
-   "listings_after": 14,
-   "dropped_from": [
-    "video.unrulymedia.com"
-   ],
-   "added_to": []
-  },
-  {
-   "key": "tron.network",
-   "name": "TronTV",
-   "domain": "tron.network",
+   "key": "leiji.io",
+   "name": "Leiji",
+   "domain": "leiji.io",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
    "listings_after": 1,
    "dropped_from": [],
    "added_to": [
-    "onetag.com"
+    "improvedigital.com"
    ]
   },
   {
-   "key": "underdogmedia.com",
-   "name": "UnderdogMedia",
-   "domain": "underdogmedia.com",
-   "exchanges_before": 9,
-   "exchanges_after": 8,
-   "listings_before": 10,
-   "listings_after": 9,
+   "key": "lemmatechnologies.com",
+   "name": "Lemma Media Inc",
+   "domain": "lemmatechnologies.com",
+   "exchanges_before": 10,
+   "exchanges_after": 9,
+   "listings_before": 18,
+   "listings_after": 15,
    "dropped_from": [
-    "indexexchange.com"
+    "media.net"
    ],
    "added_to": []
   },
   {
-   "key": "vdo.ai",
-   "name": "Zero 1 Inc.",
-   "domain": "vdo.ai",
-   "exchanges_before": 11,
-   "exchanges_after": 12,
-   "listings_before": 14,
-   "listings_after": 15,
+   "key": "liftoff.ai",
+   "name": "Liftoff",
+   "domain": "liftoff.ai",
+   "exchanges_before": 2,
+   "exchanges_after": 2,
+   "listings_before": 2,
+   "listings_after": 3,
    "dropped_from": [],
-   "added_to": [
-    "triplelift.com"
-   ]
+   "added_to": []
   },
   {
-   "key": "vi.ai",
-   "name": "Video Intelligence",
-   "domain": "vi.ai",
-   "exchanges_before": 11,
-   "exchanges_after": 12,
-   "listings_before": 15,
-   "listings_after": 16,
+   "key": "localyokelmedia.com",
+   "name": "Local Yokel Media",
+   "domain": "localyokelmedia.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
    "dropped_from": [],
    "added_to": [
     "rubiconproject.com"
    ]
   },
   {
-   "key": "videoshakers.tv",
-   "name": "VideoShakers S.L.",
-   "domain": "videoshakers.tv",
+   "key": "longitudeads.com",
+   "name": "Longitude Ads",
+   "domain": "longitudeads.com",
+   "exchanges_before": 22,
+   "exchanges_after": 21,
+   "listings_before": 71,
+   "listings_after": 70,
+   "dropped_from": [
+    "gumgum.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "lunamedia.io",
+   "name": "Luna Media",
+   "domain": "lunamedia.io",
+   "exchanges_before": 13,
+   "exchanges_after": 13,
+   "listings_before": 24,
+   "listings_after": 22,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "madvertise.com",
+   "name": "Madvertise",
+   "domain": "madvertise.com",
+   "exchanges_before": 10,
+   "exchanges_after": 8,
+   "listings_before": 23,
+   "listings_after": 21,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "melodramahappylook.com",
+   "name": "TaurusX Asia Limited",
+   "domain": "melodramahappylook.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "inmobi.com"
+   ]
+  },
+  {
+   "key": "microsoft.com",
+   "name": "Microsoft Media Network",
+   "domain": "microsoft.com",
    "exchanges_before": 2,
    "exchanges_after": 3,
    "listings_before": 2,
    "listings_after": 3,
    "dropped_from": [],
    "added_to": [
-    "richaudience.com"
+    "improvedigital.com"
    ]
   },
   {
-   "key": "voicemediagroup.com",
-   "name": "Voice Media Group",
-   "domain": "voicemediagroup.com",
-   "exchanges_before": 9,
-   "exchanges_after": 9,
-   "listings_before": 13,
-   "listings_after": 12,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "vungle.com",
-   "name": "Vungle",
-   "domain": "vungle.com",
-   "exchanges_before": 16,
-   "exchanges_after": 16,
-   "listings_before": 19,
-   "listings_after": 18,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "webads.eu",
-   "name": "WebAds NL",
-   "domain": "webads.eu",
-   "exchanges_before": 8,
-   "exchanges_after": 8,
-   "listings_before": 12,
-   "listings_after": 13,
-   "dropped_from": [],
-   "added_to": []
-  },
-  {
-   "key": "westseven.media",
-   "name": "West Seven",
-   "domain": "westseven.media",
-   "exchanges_before": 5,
-   "exchanges_after": 6,
-   "listings_before": 6,
-   "listings_after": 7,
+   "key": "multimericamedia.com",
+   "name": "Multimerica AdEX, LLC",
+   "domain": "multimericamedia.com",
+   "exchanges_before": 3,
+   "exchanges_after": 4,
+   "listings_before": 4,
+   "listings_after": 5,
    "dropped_from": [],
    "added_to": [
-    "onetag.com"
+    "loopme.com"
    ]
   },
   {
-   "key": "wizads.eu",
-   "name": "WIZADS OU",
-   "domain": "wizads.eu",
+   "key": "mydeals365.com",
+   "name": "WeAre365, LLC",
+   "domain": "mydeals365.com",
+   "exchanges_before": 5,
+   "exchanges_after": 4,
+   "listings_before": 7,
+   "listings_after": 6,
+   "dropped_from": [
+    "amxrtb.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "myfeature.tv",
+   "name": "MyFeature Inc",
+   "domain": "myfeature.tv",
+   "exchanges_before": 7,
+   "exchanges_after": 6,
+   "listings_before": 7,
+   "listings_after": 6,
+   "dropped_from": [
+    "rubiconproject.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "name:publisher 7cd110f9c878fa6",
+   "name": "PUBLISHER 7cd110f9c878fa6",
+   "domain": "",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "onetag.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "name:revenue cat",
+   "name": "Revenue Cat",
+   "domain": "",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "sharethrough.com",
+    "smartadserver.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "name:unity",
+   "name": "Unity",
+   "domain": "",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "undertone.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "name:windowsighttest",
+   "name": "windowsighttest",
+   "domain": "",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "sharethrough.com",
+    "smartadserver.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "nativo.com",
+   "name": "Nativo Inc",
+   "domain": "nativo.com",
+   "exchanges_before": 13,
+   "exchanges_after": 12,
+   "listings_before": 15,
+   "listings_after": 14,
+   "dropped_from": [
+    "conversantmedia.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "netspice.net",
+   "name": "netspice GmbH & Co. KG.",
+   "domain": "netspice.net",
+   "exchanges_before": 1,
+   "exchanges_after": 2,
+   "listings_before": 1,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "network-n.com",
+   "name": "NetworkN",
+   "domain": "network-n.com",
+   "exchanges_before": 24,
+   "exchanges_after": 24,
+   "listings_before": 38,
+   "listings_after": 39,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "omgstudios.com",
+   "name": "OMG Studios Ltd",
+   "domain": "omgstudios.com",
+   "exchanges_before": 12,
+   "exchanges_after": 11,
+   "listings_before": 15,
+   "listings_after": 14,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "omnifytv.com",
+   "name": "OmnifyTV",
+   "domain": "omnifytv.com",
+   "exchanges_before": 2,
+   "exchanges_after": 1,
+   "listings_before": 2,
+   "listings_after": 1,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "optidigital.com",
+   "name": "Opti Digital",
+   "domain": "optidigital.com",
+   "exchanges_before": 17,
+   "exchanges_after": 18,
+   "listings_before": 19,
+   "listings_after": 20,
+   "dropped_from": [],
+   "added_to": [
+    "sharethrough.com"
+   ]
+  },
+  {
+   "key": "optidigital.fr",
+   "name": "Opti Digital SAS",
+   "domain": "optidigital.fr",
+   "exchanges_before": 5,
+   "exchanges_after": 4,
+   "listings_before": 10,
+   "listings_after": 9,
+   "dropped_from": [
+    "sharethrough.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "oraki.io",
+   "name": "Oraki Digital Ltd.",
+   "domain": "oraki.io",
+   "exchanges_before": 6,
+   "exchanges_after": 4,
+   "listings_before": 8,
+   "listings_after": 6,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "outcon.solutions",
+   "name": "Outcon",
+   "domain": "outcon.solutions",
    "exchanges_before": 1,
    "exchanges_after": 0,
    "listings_before": 1,
@@ -2417,9 +1838,186 @@
    "added_to": []
   },
   {
-   "key": "wpp.com",
-   "name": "WPP",
-   "domain": "wpp.com",
+   "key": "oveeo.com",
+   "name": "Oveeo",
+   "domain": "oveeo.com",
+   "exchanges_before": 5,
+   "exchanges_after": 6,
+   "listings_before": 5,
+   "listings_after": 6,
+   "dropped_from": [],
+   "added_to": [
+    "video.unrulymedia.com"
+   ]
+  },
+  {
+   "key": "paxamedia.com",
+   "name": "Paxa Media Holdings LLC",
+   "domain": "paxamedia.com",
+   "exchanges_before": 4,
+   "exchanges_after": 3,
+   "listings_before": 4,
+   "listings_after": 3,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "placeexchange.com",
+   "name": "PlaceExchangeDOOHOrtb",
+   "domain": "placeexchange.com",
+   "exchanges_before": 3,
+   "exchanges_after": 2,
+   "listings_before": 3,
+   "listings_after": 2,
+   "dropped_from": [
+    "contextweb.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "platform-id.jp",
+   "name": "Brainy.inc",
+   "domain": "platform-id.jp",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "rubiconproject.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "pmc.com",
+   "name": "SheMedia",
+   "domain": "pmc.com",
+   "exchanges_before": 25,
+   "exchanges_after": 24,
+   "listings_before": 42,
+   "listings_after": 41,
+   "dropped_from": [
+    "contextweb.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "popularmilitary.com",
+   "name": "popularmilitary.com",
+   "domain": "popularmilitary.com",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "premiumads.com.br",
+   "name": "Premium Publicidade e Marketing LTDA",
+   "domain": "premiumads.com.br",
+   "exchanges_before": 16,
+   "exchanges_after": 15,
+   "listings_before": 17,
+   "listings_after": 16,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "primis.tech",
+   "name": "Primis",
+   "domain": "primis.tech",
+   "exchanges_before": 21,
+   "exchanges_after": 21,
+   "listings_before": 40,
+   "listings_after": 41,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "produpress.be",
+   "name": "Produpress",
+   "domain": "produpress.be",
+   "exchanges_before": 6,
+   "exchanges_after": 4,
+   "listings_before": 6,
+   "listings_after": 4,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "programmaticx.ai",
+   "name": "Programmaticx",
+   "domain": "programmaticx.ai",
+   "exchanges_before": 17,
+   "exchanges_after": 17,
+   "listings_before": 21,
+   "listings_after": 22,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "projectagora.com",
+   "name": "Project Agora II",
+   "domain": "projectagora.com",
+   "exchanges_before": 18,
+   "exchanges_after": 18,
+   "listings_before": 29,
+   "listings_after": 32,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "proper.io",
+   "name": "Proper Media",
+   "domain": "proper.io",
+   "exchanges_before": 16,
+   "exchanges_after": 15,
+   "listings_before": 35,
+   "listings_after": 34,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "pubfinity.com",
+   "name": "Pubfinity LLC",
+   "domain": "pubfinity.com",
+   "exchanges_before": 14,
+   "exchanges_after": 13,
+   "listings_before": 15,
+   "listings_after": 14,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "pubgalaxy.com",
+   "name": "Pub Galaxy",
+   "domain": "pubgalaxy.com",
+   "exchanges_before": 28,
+   "exchanges_after": 29,
+   "listings_before": 47,
+   "listings_after": 48,
+   "dropped_from": [],
+   "added_to": [
+    "richaudience.com"
+   ]
+  },
+  {
+   "key": "publicisgroupe.com",
+   "name": "PMX (Publicis)",
+   "domain": "publicisgroupe.com",
    "exchanges_before": 0,
    "exchanges_after": 1,
    "listings_before": 0,
@@ -2430,177 +2028,837 @@
    ]
   },
   {
-   "key": "wurl.com",
-   "name": "Wurl, LLC",
-   "domain": "wurl.com",
-   "exchanges_before": 13,
-   "exchanges_after": 14,
-   "listings_before": 25,
-   "listings_after": 26,
+   "key": "publisherdesk.com",
+   "name": "PublisherDesk",
+   "domain": "publisherdesk.com",
+   "exchanges_before": 24,
+   "exchanges_after": 24,
+   "listings_before": 38,
+   "listings_after": 37,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "pubmax.com",
+   "name": "Pubmax",
+   "domain": "pubmax.com",
+   "exchanges_before": 15,
+   "exchanges_after": 16,
+   "listings_before": 16,
+   "listings_after": 17,
    "dropped_from": [],
    "added_to": [
-    "inmobi.com"
+    "ogury.com"
    ]
   },
   {
-   "key": "yieldlab.net",
-   "name": "Virtual Minds GmbH",
-   "domain": "yieldlab.net",
+   "key": "pwr-games.com",
+   "name": "PWR GLOBAL MEDIA PTE. LTD.",
+   "domain": "pwr-games.com",
+   "exchanges_before": 13,
+   "exchanges_after": 12,
+   "listings_before": 16,
+   "listings_after": 15,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "rbapubliventas.com",
+   "name": "Ediciones RBA",
+   "domain": "rbapubliventas.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "media.net"
+   ]
+  },
+  {
+   "key": "rediads.com",
+   "name": "Rediads Pvt. Ltd Prebid",
+   "domain": "rediads.com",
+   "exchanges_before": 3,
+   "exchanges_after": 2,
+   "listings_before": 4,
+   "listings_after": 3,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "redmob.io",
+   "name": "Redmob SSP",
+   "domain": "redmob.io",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "smaato.com"
+   ]
+  },
+  {
+   "key": "revenuecat.com",
+   "name": "Revenue Cat",
+   "domain": "revenuecat.com",
+   "exchanges_before": 0,
+   "exchanges_after": 2,
+   "listings_before": 0,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "sharethrough.com",
+    "smartadserver.com"
+   ]
+  },
+  {
+   "key": "roxot.com",
+   "name": "Roxot LLC",
+   "domain": "roxot.com",
+   "exchanges_before": 2,
+   "exchanges_after": 4,
+   "listings_before": 2,
+   "listings_after": 4,
+   "dropped_from": [],
+   "added_to": [
+    "appnexus.com",
+    "xandr.com"
+   ]
+  },
+  {
+   "key": "saambaa.com",
+   "name": "Saambaa",
+   "domain": "saambaa.com",
+   "exchanges_before": 7,
+   "exchanges_after": 8,
+   "listings_before": 10,
+   "listings_after": 11,
+   "dropped_from": [],
+   "added_to": [
+    "undertone.com"
+   ]
+  },
+  {
+   "key": "sbb.bg",
+   "name": "SBB Media",
+   "domain": "sbb.bg",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "sharethrough.com",
+    "smartadserver.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "scupio.com",
+   "name": "Bridgewell Incorporated",
+   "domain": "scupio.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "sharethrough.com",
+   "name": "Sharethrough",
+   "domain": "sharethrough.com",
+   "exchanges_before": 9,
+   "exchanges_after": 8,
+   "listings_before": 10,
+   "listings_after": 9,
+   "dropped_from": [
+    "openx.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "soyummy.com",
+   "name": "First Media",
+   "domain": "soyummy.com",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "rubiconproject.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "space-mob.com",
+   "name": "Spacemob LLC dba Answer Media",
+   "domain": "space-mob.com",
    "exchanges_before": 6,
    "exchanges_after": 5,
    "listings_before": 8,
    "listings_after": 7,
    "dropped_from": [
-    "indexexchange.com"
+    "inmobi.com"
    ],
    "added_to": []
+  },
+  {
+   "key": "spinx.biz",
+   "name": "SpinX Pte Ltd",
+   "domain": "spinx.biz",
+   "exchanges_before": 11,
+   "exchanges_after": 12,
+   "listings_before": 11,
+   "listings_after": 12,
+   "dropped_from": [],
+   "added_to": [
+    "improvedigital.com"
+   ]
+  },
+  {
+   "key": "sportplatz-media.com",
+   "name": "SPM Sportplatz Media GmbH",
+   "domain": "sportplatz-media.com",
+   "exchanges_before": 8,
+   "exchanges_after": 6,
+   "listings_before": 8,
+   "listings_after": 6,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "start.io",
+   "name": "Start.IO",
+   "domain": "start.io",
+   "exchanges_before": 17,
+   "exchanges_after": 17,
+   "listings_before": 27,
+   "listings_after": 26,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "stream5.tech",
+   "name": "Arclight",
+   "domain": "stream5.tech",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "stremlyn.com",
+   "name": "STREAMLYN PTE LTD",
+   "domain": "stremlyn.com",
+   "exchanges_before": 0,
+   "exchanges_after": 2,
+   "listings_before": 0,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "appnexus.com",
+    "xandr.com"
+   ]
+  },
+  {
+   "key": "taboola.com",
+   "name": "Taboola",
+   "domain": "taboola.com",
+   "exchanges_before": 26,
+   "exchanges_after": 24,
+   "listings_before": 37,
+   "listings_after": 34,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "tagoras.io",
+   "name": "Tagoras",
+   "domain": "tagoras.io",
+   "exchanges_before": 4,
+   "exchanges_after": 3,
+   "listings_before": 4,
+   "listings_after": 3,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "tamenetwork.com",
+   "name": "The Affinity Media Exchange, Inc. d/b/a TAME",
+   "domain": "tamenetwork.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "targetbetter.com",
+   "name": "Target Better Inc",
+   "domain": "targetbetter.com",
+   "exchanges_before": 6,
+   "exchanges_after": 6,
+   "listings_before": 6,
+   "listings_after": 7,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "tcl.com",
+   "name": "TCL Multimedia",
+   "domain": "tcl.com",
+   "exchanges_before": 12,
+   "exchanges_after": 13,
+   "listings_before": 14,
+   "listings_after": 15,
+   "dropped_from": [],
+   "added_to": [
+    "onetag.com"
+   ]
+  },
+  {
+   "key": "teads.tv",
+   "name": "Teads France SAS",
+   "domain": "teads.tv",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "teal.works",
+   "name": "Teal",
+   "domain": "teal.works",
+   "exchanges_before": 16,
+   "exchanges_after": 16,
+   "listings_before": 18,
+   "listings_after": 17,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "tealplus.com",
+   "name": "Teal",
+   "domain": "tealplus.com",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "inmobi.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "thunder-monetize.ai",
+   "name": "Thunder Monetization Pte. Ltd.",
+   "domain": "thunder-monetize.ai",
+   "exchanges_before": 0,
+   "exchanges_after": 2,
+   "listings_before": 0,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "improvedigital.com",
+    "media.net"
+   ]
+  },
+  {
+   "key": "thunder-monetize.io",
+   "name": "HONGKONG THUNDER SOLUTION LIMITED",
+   "domain": "thunder-monetize.io",
+   "exchanges_before": 0,
+   "exchanges_after": 2,
+   "listings_before": 0,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "improvedigital.com",
+    "media.net"
+   ]
+  },
+  {
+   "key": "trafficrich.com",
+   "name": "Traffic Rich",
+   "domain": "trafficrich.com",
+   "exchanges_before": 2,
+   "exchanges_after": 3,
+   "listings_before": 2,
+   "listings_after": 3,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "tredio.io",
+   "name": "Tredio",
+   "domain": "tredio.io",
+   "exchanges_before": 9,
+   "exchanges_after": 10,
+   "listings_before": 14,
+   "listings_after": 15,
+   "dropped_from": [],
+   "added_to": [
+    "video.unrulymedia.com"
+   ]
+  },
+  {
+   "key": "triadretail.com",
+   "name": "Triad Digital Media LLC d/b/a Triad Retail Media",
+   "domain": "triadretail.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "triplelift.com",
+   "name": "TripleLift Inc.",
+   "domain": "triplelift.com",
+   "exchanges_before": 1,
+   "exchanges_after": 3,
+   "listings_before": 1,
+   "listings_after": 3,
+   "dropped_from": [],
+   "added_to": [
+    "appnexus.com",
+    "xandr.com"
+   ]
+  },
+  {
+   "key": "udmserve.net",
+   "name": "Underdog Media",
+   "domain": "udmserve.net",
+   "exchanges_before": 7,
+   "exchanges_after": 8,
+   "listings_before": 9,
+   "listings_after": 10,
+   "dropped_from": [],
+   "added_to": [
+    "ogury.com"
+   ]
+  },
+  {
+   "key": "uol.com.br",
+   "name": "Webtech Media Ltda",
+   "domain": "uol.com.br",
+   "exchanges_before": 1,
+   "exchanges_after": 2,
+   "listings_before": 1,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "vdo.ai",
+   "name": "Zero 1 Inc.",
+   "domain": "vdo.ai",
+   "exchanges_before": 13,
+   "exchanges_after": 14,
+   "listings_before": 16,
+   "listings_after": 17,
+   "dropped_from": [],
+   "added_to": [
+    "loopme.com"
+   ]
+  },
+  {
+   "key": "venatus.com",
+   "name": "Venatus",
+   "domain": "venatus.com",
+   "exchanges_before": 26,
+   "exchanges_after": 27,
+   "listings_before": 43,
+   "listings_after": 44,
+   "dropped_from": [],
+   "added_to": [
+    "ogury.com"
+   ]
+  },
+  {
+   "key": "vidazoo.com",
+   "name": "Vidazoo Ltd.",
+   "domain": "vidazoo.com",
+   "exchanges_before": 21,
+   "exchanges_after": 22,
+   "listings_before": 33,
+   "listings_after": 34,
+   "dropped_from": [],
+   "added_to": [
+    "risecodes.com"
+   ]
+  },
+  {
+   "key": "vitormedia.com",
+   "name": "Vitor Media, LLC",
+   "domain": "vitormedia.com",
+   "exchanges_before": 4,
+   "exchanges_after": 3,
+   "listings_before": 4,
+   "listings_after": 3,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "vnexpress.net",
+   "name": "Vn Express",
+   "domain": "vnexpress.net",
+   "exchanges_before": 3,
+   "exchanges_after": 4,
+   "listings_before": 3,
+   "listings_after": 4,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
+  },
+  {
+   "key": "vodiomedia.com",
+   "name": "Vodiomedia",
+   "domain": "vodiomedia.com",
+   "exchanges_before": 1,
+   "exchanges_after": 2,
+   "listings_before": 1,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "pubmatic.com"
+   ]
+  },
+  {
+   "key": "voicemediagroup.com",
+   "name": "Voice Media Group",
+   "domain": "voicemediagroup.com",
+   "exchanges_before": 9,
+   "exchanges_after": 8,
+   "listings_before": 12,
+   "listings_after": 10,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "vpon.com",
+   "name": "VPON Taiwan Inc.",
+   "domain": "vpon.com",
+   "exchanges_before": 2,
+   "exchanges_after": 0,
+   "listings_before": 2,
+   "listings_after": 0,
+   "dropped_from": [
+    "appnexus.com",
+    "xandr.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "vrtcal.com",
+   "name": "VRTCAL Markets, Inc.",
+   "domain": "vrtcal.com",
+   "exchanges_before": 15,
+   "exchanges_after": 14,
+   "listings_before": 22,
+   "listings_after": 19,
+   "dropped_from": [
+    "media.net"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "webedia-group.de",
+   "name": "Webedia GmbH",
+   "domain": "webedia-group.de",
+   "exchanges_before": 1,
+   "exchanges_after": 2,
+   "listings_before": 1,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "media.net"
+   ]
+  },
+  {
+   "key": "westseven.media",
+   "name": "West Seven",
+   "domain": "westseven.media",
+   "exchanges_before": 6,
+   "exchanges_after": 9,
+   "listings_before": 7,
+   "listings_after": 10,
+   "dropped_from": [],
+   "added_to": [
+    "appnexus.com",
+    "rubiconproject.com",
+    "xandr.com"
+   ]
+  },
+  {
+   "key": "whenevermedia.com",
+   "name": "WheneverMediaLtd",
+   "domain": "whenevermedia.com",
+   "exchanges_before": 5,
+   "exchanges_after": 5,
+   "listings_before": 10,
+   "listings_after": 9,
+   "dropped_from": [],
+   "added_to": []
+  },
+  {
+   "key": "windowsight.com",
+   "name": "windowsighttest",
+   "domain": "windowsight.com",
+   "exchanges_before": 0,
+   "exchanges_after": 2,
+   "listings_before": 0,
+   "listings_after": 2,
+   "dropped_from": [],
+   "added_to": [
+    "sharethrough.com",
+    "smartadserver.com"
+   ]
+  },
+  {
+   "key": "xoolmedia.co",
+   "name": "XoolMedia&TechOU",
+   "domain": "xoolmedia.co",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 3,
+   "listings_after": 0,
+   "dropped_from": [
+    "freewheel.tv"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "xoolmedia.com",
+   "name": "XoolMedia&TechOU",
+   "domain": "xoolmedia.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 3,
+   "dropped_from": [],
+   "added_to": [
+    "freewheel.tv"
+   ]
+  },
+  {
+   "key": "zeasn.com",
+   "name": "Zeasn Europe B.V.",
+   "domain": "zeasn.com",
+   "exchanges_before": 1,
+   "exchanges_after": 0,
+   "listings_before": 1,
+   "listings_after": 0,
+   "dropped_from": [
+    "pubmatic.com"
+   ],
+   "added_to": []
+  },
+  {
+   "key": "zmgruckus.com",
+   "name": "Zazoom, LLC",
+   "domain": "zmgruckus.com",
+   "exchanges_before": 0,
+   "exchanges_after": 1,
+   "listings_before": 0,
+   "listings_after": 1,
+   "dropped_from": [],
+   "added_to": [
+    "rubiconproject.com"
+   ]
   }
  ],
  "exchanges": [
   {
+   "exchange": "appnexus.com",
+   "before": 1475,
+   "after": 1415
+  },
+  {
+   "exchange": "blis.com",
+   "before": 92,
+   "after": 94
+  },
+  {
    "exchange": "connatix.com",
-   "before": 1310,
-   "after": 1309
+   "before": 1309,
+   "after": 1311
+  },
+  {
+   "exchange": "contextweb.com",
+   "before": 39,
+   "after": 35
   },
   {
    "exchange": "conversantmedia.com",
-   "before": 1120,
-   "after": 1122
+   "before": 1122,
+   "after": 1124
   },
   {
-   "exchange": "criteo.com",
-   "before": 1686,
-   "after": 1702
+   "exchange": "emxdgt.com",
+   "before": 201,
+   "after": 202
   },
   {
    "exchange": "freewheel.tv",
-   "before": 1878,
-   "after": 1879
-  },
-  {
-   "exchange": "gumgum.com",
-   "before": 601,
-   "after": 600
+   "before": 1879,
+   "after": 1882
   },
   {
    "exchange": "improvedigital.com",
-   "before": 19861,
-   "after": 20006
+   "before": 20006,
+   "after": 20139
   },
   {
    "exchange": "indexexchange.com",
-   "before": 4038,
-   "after": 4041
+   "before": 4041,
+   "after": 4039
   },
   {
    "exchange": "inmobi.com",
-   "before": 3220,
-   "after": 3236
-  },
-  {
-   "exchange": "kargo.com",
-   "before": 386,
-   "after": 391
+   "before": 3236,
+   "after": 3239
   },
   {
    "exchange": "lijit.com",
-   "before": 7355,
-   "after": 7361
+   "before": 7361,
+   "after": 7362
   },
   {
    "exchange": "loopme.com",
-   "before": 8433,
-   "after": 8500
+   "before": 8500,
+   "after": 8556
   },
   {
    "exchange": "media.net",
-   "before": 3002,
-   "after": 2895
+   "before": 2895,
+   "after": 2848
   },
   {
    "exchange": "nativo.com",
-   "before": 971,
-   "after": 972
-  },
-  {
-   "exchange": "ogury.com",
-   "before": 829,
-   "after": 834
+   "before": 972,
+   "after": 977
   },
   {
    "exchange": "onetag.com",
-   "before": 2335,
-   "after": 2340
+   "before": 2340,
+   "after": 2353
   },
   {
    "exchange": "openx.com",
-   "before": 7983,
-   "after": 8031
+   "before": 8031,
+   "after": 8064
   },
   {
    "exchange": "pubmatic.com",
-   "before": 6515,
-   "after": 6523
+   "before": 6523,
+   "after": 6528
   },
   {
    "exchange": "richaudience.com",
-   "before": 1403,
-   "after": 1400
+   "before": 1400,
+   "after": 1409
   },
   {
    "exchange": "risecodes.com",
-   "before": 354,
-   "after": 356
+   "before": 356,
+   "after": 359
   },
   {
    "exchange": "rubiconproject.com",
-   "before": 3219,
-   "after": 3197
+   "before": 3197,
+   "after": 3264
   },
   {
    "exchange": "seedtag.com",
-   "before": 1148,
-   "after": 1155
+   "before": 1155,
+   "after": 1160
   },
   {
    "exchange": "sharethrough.com",
-   "before": 5236,
-   "after": 5237
+   "before": 5237,
+   "after": 5232
   },
   {
    "exchange": "smaato.com",
-   "before": 2926,
-   "after": 2909
+   "before": 2909,
+   "after": 2874
   },
   {
    "exchange": "smartadserver.com",
-   "before": 2734,
-   "after": 2735
+   "before": 2735,
+   "after": 2730
   },
   {
    "exchange": "teads.tv",
-   "before": 4009,
-   "after": 4013
-  },
-  {
-   "exchange": "themediagrid.com",
-   "before": 1686,
-   "after": 1702
+   "before": 4013,
+   "after": 4014
   },
   {
    "exchange": "triplelift.com",
-   "before": 7988,
-   "after": 8001
+   "before": 8001,
+   "after": 8005
   },
   {
    "exchange": "undertone.com",
-   "before": 140,
-   "after": 141
+   "before": 141,
+   "after": 140
   },
   {
    "exchange": "video.unrulymedia.com",
-   "before": 1601,
-   "after": 1594
+   "before": 1594,
+   "after": 1600
+  },
+  {
+   "exchange": "xandr.com",
+   "before": 1475,
+   "after": 1415
+  },
+  {
+   "exchange": "yieldmo.com",
+   "before": 477,
+   "after": 479
   }
  ]
 }
