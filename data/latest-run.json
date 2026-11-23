@@ -1,10 +1,14 @@
 {
- "date": "2026-11-15",
- "coverage": "Publishers read OK: 62 of 64. Exchange sellers.json read OK: 40 of 43.",
+ "date": "2026-11-23",
+ "coverage": "Publishers read OK: 61 of 64. Exchange sellers.json read OK: 40 of 43.",
  "errors": {
   "time.com": [
    "https://time.com/ads.txt: error (HTTP 406)",
    "https://www.time.com/ads.txt: error (HTTP 406)"
+  ],
+  "express.co.uk": [
+   "https://express.co.uk/ads.txt: error (HTTP 403)",
+   "https://www.express.co.uk/ads.txt: error (HTTP 403)"
   ],
   "which.co.uk": [
    "https://which.co.uk/ads.txt: error (HTTP 404)",
